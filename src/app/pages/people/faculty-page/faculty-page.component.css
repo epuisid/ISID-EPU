@@ -1,0 +1,16 @@
+
+.subtitle{
+    color: var(--secondary);
+}
+.grid{
+    display: grid;
+    align-items: center;
+}
+@media (min-width:1100px){
+    .grid{
+        grid-template-columns: 45% 45%;
+    }
+}
+app-personbox{
+    margin: 10px;
+}

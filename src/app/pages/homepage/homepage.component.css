@@ -1,0 +1,21 @@
+
+.links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+@media(min-width:650px){
+    .links{
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    a{
+        text-align: start;
+    }
+}
+
+a:hover{
+    background-color: #ddd;
+}

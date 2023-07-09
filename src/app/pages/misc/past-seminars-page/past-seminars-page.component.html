@@ -1,0 +1,14 @@
+<div>
+    <div class="titlebar">
+        <p class="title">{{data.title}}</p>
+        
+        <input [(ngModel)]="query" placeholder="🔍 Search for keywords..."/>
+    </div>
+    <div *ngIf="query.length===0">
+        <app-paraspecbox *ngFor="let para of data.paragraphs" [para]="para"></app-paraspecbox>
+        <app-flashbox *ngFor="let ps of data.pastSeminars" [title]="ps.title" [paras]="[{text:ps.description}]"></app-flashbox>
+    </div>
+    <div *ngIf="getQueryResults().length>0 && query.length>0">
+        <app-flashbox *ngFor="let res of getQueryResults()" [title]="res.title" [paras]="[{text:res.description}]"></app-flashbox>
+    </div>
+</div>

@@ -1,0 +1,11 @@
+<div class="main">
+    
+    <button type="button" [class]="(active?'active ':'')+'collapsible'" (click)="toggleContent()">
+        {{title}}
+        <i *ngIf="!active" class="fa fa-sort-down"></i>
+        <i *ngIf="active" class="fa fa-sort-up"></i>
+    </button>
+    <div [class]="(active?'active ':'')+'content'" #content>
+        <ng-content></ng-content>
+    </div>
+</div>

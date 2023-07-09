@@ -1,0 +1,21 @@
+<div class="main">
+    <hr class="thick">
+    <div class="desktop">
+        <div class="desktop-links">
+            <a *ngFor="let link of links" [routerLink]="[link.route]">{{link.label}}</a>
+        </div>
+    </div>
+    <div class="mobile">
+        <div class="mobile-links">
+            <a *ngFor="let link of links" [routerLink]="[link.route]">{{link.label}}</a>
+        </div>
+    </div>
+    <div>
+        © Economics and Planning Unit. All rights reserved.
+        <br>
+        Website design and implementation by
+        <a href="https://www.linkedin.com/in/hardik-rajpal-135874159/" target="_blank">
+            Hardik Rajpal</a>.
+    </div>
+    <br>
+</div>

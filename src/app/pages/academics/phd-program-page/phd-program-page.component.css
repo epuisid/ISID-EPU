@@ -1,0 +1,14 @@
+
+.titlebar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+input{
+    width: 50%;
+    height: 30px;
+    border: 3px solid black;
+    padding: 5px;
+    border-radius: 5px;
+}

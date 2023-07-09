@@ -1,0 +1,50 @@
+<div class="desktop">
+    <div class="row splitdiv1">
+        <div class="col">
+            <img src="{{data.image}}" class="person-page-img">
+            <div class="heading fs-large linktitle">Links</div>
+            <hr class="thick">
+            <div class="link" *ngFor="let link of data.profileLinks">
+                <a [href]="link.link" target="_blank"><i class="fa fa-external-link"></i> {{link.site}}</a>
+            </div>
+        </div>
+        <div class="col">
+            <div class="name fs-xx-large">
+                {{data.name}}
+            </div>
+            <hr class="thin">
+            <div class="name fs-x-large" [innerHTML]="data.title"></div>
+            <hr class="thick">
+            <app-paraspecbox *ngFor="let para of data.description" [para]="para"></app-paraspecbox>
+            <div class="fs-large">
+                Selected Publications:
+            </div>
+            <app-publication-box *ngFor="let pub of data.publications" [paper]="pub">
+            </app-publication-box>
+        </div>
+    </div>
+</div>
+<div class="mobile">
+    <div class="col maindiv1">
+        <img src="{{data.image}}" class="person-page-img">
+        <div class="name fs-xx-large">
+            {{data.name}}
+        </div>
+        <hr class="thin">
+        <div class="name fs-x-large" [innerHTML]="data.title"></div>
+        <hr class="thick">
+        <div class="heading fs-large linktitle">Links</div>
+        <div class="link" *ngFor="let link of data.profileLinks">
+            <a [href]="link.link"><i class="fa fa-external-link"></i> {{link.site}}</a>
+        </div>
+        <hr class="thick">
+        <app-paraspecbox *ngFor="let para of data.description" [para]="para"></app-paraspecbox>
+        <div class="fs-large">
+            Selected Publications:
+        </div>
+        <div class="col pubs">
+            <app-publication-box *ngFor="let pub of data.publications" [paper]="pub">
+            </app-publication-box>
+        </div>
+    </div>
+</div>

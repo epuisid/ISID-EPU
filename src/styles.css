@@ -1,0 +1,111 @@
+:root{
+    --primary:#00356b;
+    --secondary:#286dc0;
+    --accent:#006ef5;
+    --light:#7eb3f5;
+    --mgvwidth:600px;
+    
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-family: "Source Sans Pro"; */
+    letter-spacing: 0.5px;
+    font-size: 19.5px;
+    /* line-height: 30px; */
+    /* font-family: "Red Hat Display"; */
+    font-family: "Roboto Condensed",sans-serif;
+    /* font-family: 'Manrope',sans-serif; */
+}
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+a{
+    text-decoration: none;
+    color: var(--accent);
+}
+a:hover{
+    color: var(--light);
+}
+a.button{
+    border: 3px solid var(--secondary);
+    padding: 5px;
+    font-size: large;
+    border-radius: 5px;
+}
+input{
+    height: 30px;
+    border: 3px solid black;
+    padding: 5px;
+    border-radius: 5px;
+}
+.title{
+    font-size: x-large;
+    text-align: center;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.rrow{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.fs-large{
+    font-size: 1.33rem;
+}
+.fs-x-large{
+    font-size: 1.66rem;
+}
+.fs-medium{
+    font-size: 1rem;
+}
+.fs-larger{
+    font-size: 1.5rem;
+}
+.fs-xx-large{
+    font-size: 2rem;
+}
+.student-img{
+    width: 250px;
+    height: 250px;
+}
+.person-img{
+    width: 200px;
+    height: 200px;
+}
+hr.thick{
+    border: 0;
+    clear:both;
+    display:block;
+    width: 100%;               
+    background-color:var(--secondary);
+    height: 5px;
+}
+hr.thin{
+    border: 0;
+    clear:both;
+    display:block;
+    width: 100%;               
+    background-color:var(--light);
+    height: 3px;
+}
+.desktop{
+    display: none;
+}
+
+
+
+
+
+@media(min-width:800px){
+    .desktop{
+        display: block;
+    }
+    .mobile{
+        display: none;
+    }
+}

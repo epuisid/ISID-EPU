@@ -1,0 +1,10 @@
+<div class="main">
+    <p class="title">{{data.title}}</p>
+    <div class="pocs">
+        <app-flashbox *ngFor="let contact of data.pointsOfContact" [title]="contact.title" [paras]="contact.paragraphs"></app-flashbox>
+    </div>
+    <hr>
+    <div class="address">
+        <app-flashbox *ngFor="let info of data.address" [title]="info.title" [paras]="info.paragraphs"></app-flashbox>
+    </div>
+</div>

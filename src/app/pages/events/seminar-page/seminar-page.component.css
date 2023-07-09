@@ -1,0 +1,7 @@
+
+.subtitle{
+    color: var(--secondary);
+}
+.button{
+    border: 3px solid var(--light);
+}

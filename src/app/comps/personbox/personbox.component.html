@@ -1,0 +1,24 @@
+<div class="main" [ngStyle]="{width:(width?width:'')}">
+    <div class="text col">
+        <div class="imgdiv col">
+            <a *ngIf="person.imageLink" href="{{person.imageLink}}">
+                <img src="{{person.image}}" class="person-img">
+            </a>
+            <a *ngIf="(person.personPageKey)&&(!person.imageLink)" [routerLink]="'/people/individual/'+person.personPageKey">
+                <img src="{{person.image}}" class="person-img">
+            </a>
+            <img *ngIf="(!person.imageLink)&&(!person.personPageKey)" src="{{person.image}}" class="person-img">
+        </div>
+        <div class="person-title fs-medium row">
+            <a *ngIf="person.personPageKey" class="personLink" [routerLink]="'/people/individual/'+person.personPageKey">
+                {{person.name}}
+            </a>
+            <i *ngIf="person.personPageKey" style="color: white;" class="fa fa-external-link-square"></i>
+            <div *ngIf="!person.personPageKey">{{person.name}}</div>
+        </div>
+    </div>
+    <div class="body fs-medium">
+        <app-paraspecbox [para]="{text:person.description}"></app-paraspecbox>
+    </div>
+</div>
+<!-- TODO: fix staff boxs. -->

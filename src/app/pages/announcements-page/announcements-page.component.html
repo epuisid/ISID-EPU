@@ -1,0 +1,7 @@
+<div class="col">
+    <div class="group" *ngFor="let group of data">
+        <p class="title">{{group.title}}</p>
+            <app-flashbox *ngFor="let ann of group.list" [title]="ann.title" [paras]="ann.paragraphs">
+            </app-flashbox>
+    </div>
+</div>

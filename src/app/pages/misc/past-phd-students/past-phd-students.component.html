@@ -1,0 +1,23 @@
+<div class="main">
+    <div class="titlebar">
+        <p class="title">{{data.title}}</p>
+        <input [(ngModel)]="query" placeholder="🔍 Search for keywords..."/>
+    </div>
+    <div *ngIf="query.length===0">
+        <app-flashbox *ngFor="let yearData of orgData" [title]="'Scholars of '+yearData.year">
+            <div *ngFor="let student of yearData.students" >
+                <p [innerHTML]="student.name"></p>
+                <app-paraspecbox [para]="{text:student.description}"></app-paraspecbox>
+                <hr>
+            </div>
+        </app-flashbox>
+    </div>
+    <div *ngIf="query.length>0">
+        <app-flashbox [title]="'Search Results for '+'\''+query+'\''">
+            <div *ngFor="let student of getQueryResults()">
+                <p [innerHTML]="student.name"></p>
+                <app-paraspecbox  [para]="{text:student.description}"></app-paraspecbox>
+            </div>
+        </app-flashbox>
+    </div>
+</div>

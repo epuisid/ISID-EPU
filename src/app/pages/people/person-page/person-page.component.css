@@ -1,0 +1,24 @@
+.splitdiv1>*{
+    padding: 10px;
+}
+.maindiv1{
+    align-items: center;
+}
+.details{
+    padding: 20px;
+    border-right: 3px solid grey;
+}
+.link{
+    padding-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.side{
+    padding: 20px;
+}
+.person-page-img{
+    width: 300px;
+    height: 300px;
+}
+.linktitle{
+    margin-top: 10px;
+}

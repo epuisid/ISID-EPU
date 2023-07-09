@@ -1,0 +1,7 @@
+<div class="main">
+    <p class="title">{{data.title}}</p>
+    <div *ngFor="let facultyList of data.facultyLists">
+        <p class="subtitle fs-larger">{{facultyList.subtitle}}</p>
+        <app-flashbox *ngFor="let faculty of facultyList.faculty" [title]="faculty.name" [paras]="faculty.paragraphs"></app-flashbox>
+    </div>
+</div>

@@ -1,0 +1,16 @@
+<div class="main">
+    <p class="title">{{data.title}}</p>
+    <app-paraspecbox *ngFor="let para of data.paragraphs" [para]="para"></app-paraspecbox>
+    <div class="titlebar">
+        <p class="title">FAQs</p>
+        <input [(ngModel)]="query" placeholder="🔍 Search for keywords..."/>
+    </div>
+    <div *ngIf="query.length===0">
+        <app-flashbox *ngFor="let qna of data.faqs" [title]="qna.question" [paras]="qna.answer"></app-flashbox>
+    </div>
+    <div *ngIf="query.length>0">
+        <p>Search Results for '{{query}}'</p>
+        <hr>
+        <app-flashbox *ngFor="let qna of getQueryResults()" [title]="qna.question" [paras]="qna.answer"></app-flashbox>
+    </div>
+</div>
