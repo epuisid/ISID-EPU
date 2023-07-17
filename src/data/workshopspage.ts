@@ -16,7 +16,8 @@ export const WorkshopsPageData:textPageSpec = {
         },
         {
             text:`Besides these, EPU organizes occasional workshops on specific themes.`,
-        
+        },
+        {
             list:[
                 `<a href="http://econdse.org/wp-content/uploads/BRICS-NU-DSE-ISI-Programme.-Nov-12-13-2021.pdf">
                 BRICS-NU Conference on Growth and Development in BRICS Economies</a> was organized by Prof. Chetan Ghate (ISI Delhi)

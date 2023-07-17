@@ -17,6 +17,9 @@
         </div>
     </div>
     <div *ngIf="para!.list">
+        <ul *ngIf="!para!.image">
+            <li *ngFor="let item of para!.list" [innerHTML]="item"></li>
+        </ul>
         <div *ngIf="para!.image">
             <div class="desktop">
                 <div [class]="para!.reverse?'rrow':'row'">
