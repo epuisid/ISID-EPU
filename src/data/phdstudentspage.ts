@@ -39,13 +39,13 @@ export const PhDStudentsData: PhdStudentsSpec = {
             description: `Area: political economy, development economics <br>
 Advisor: Farzana Afridi
             Web: <a href="https://sites.google.com/view/ahanaecon/home">Click</a>`,
-            name: `Ahana Basistha `
+            name: `Ahana Basistha (Thesis defended)`
         },
         {
             image: `assets/people/bb.jpg`,
             description: `Area: behavioral economics, decision theory, mechanism design <br>
             Advisor: Debasis Mishra`,
-            name: `Bhavook Bhardwaj `
+            name: `Bhavook Bhardwaj (Thesis submitted)`
         },
         {
             image: `assets/people/hd.jpg`,
@@ -105,7 +105,7 @@ Advisor: Prabal Roy Chowdhury
         {
             image: `assets/people/pankaj.jpg`,
             description: `Area: environmental economics, economics of climate change, development economics<br>
-            Advisor: `,
+            Advisor: Kanishka Kacker`,
             name: `Pankaj Kumar `
         },
         {
@@ -120,15 +120,9 @@ Advisor: E. Somanathan
             description: `Area: decision theory, behavioral economics <br>
 Advisor: Arunava Sen
             Web: <a href="https://sites.google.com/view/kriti-manocha/home">Click</a>`,
-            name: `Kriti Manocha `
+            name: `Kriti Manocha (Thesis submitted)`
         },
-        {
-            image: `assets/people/pratanu.jpg`,
-            description: `Area: contract theory, recursive macroeconomics, institutional economics<br>
-Advisor: Prabal Roy Chowdhury
-            `,
-            name: `Pratanu Mitra `
-        },
+        
         {
             image: `assets/people/ria.jpg`,
             description: `Area: game theory, asymmetric information, behavioral economics<br>
@@ -153,13 +147,7 @@ Advisor: Prabal Roy Chowdhury
             Advisor: Debasis Mishra`,
             name: `Adarsh Nayal `
         },
-        {
-            image: `assets/people/nikita.jpg`,
-            description: `Area: development economics, labor economics <br>
-Advisor: Farzana Afridi
-            Web: <a href="https://sites.google.com/view/nikitasangwan/home">click</a>`,
-            name: `Nikita Sangwan (defended thesis)`
-        },
+        
         {
             image: `assets/people/vr.jpg`,
             description: `Area: macroeconomics, public economics <br>
@@ -184,20 +172,17 @@ Advisor: Farzana Afridi
             Advisor: Arunava Sen`,
             name: `Ankit Singh `
         },
-        {
-            image: `assets/people/sus.jpg`,
-            description: `Area: development economics, labor economics <br>
-            Advisor: Tridip Ray`,
-            name: `Sujaya Sarkar (submitted thesis)`
-        },
+        
         {
             image: `assets/people/agnij.jpg`,
-            description: `Area: environmental economics, economics of climate change, development economics`,
+            description: `Area: environmental economics, economics of climate change, development economics <br>
+            Advisor: E. Somanathan`,
             name: `Agnij Sur`
         },
         {
             image: `assets/people/vilok.jpg`,
-            description: `Area: microeconomic theory`,
+            description: `Area: microeconomic theory <br>
+            Advisor: Debasis Mishra`,
             name: `Vilok Jitendra Taori`
         },
     ]

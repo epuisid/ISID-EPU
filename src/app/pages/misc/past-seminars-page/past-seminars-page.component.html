@@ -6,9 +6,9 @@
     </div>
     <div *ngIf="query.length===0">
         <app-paraspecbox *ngFor="let para of data.paragraphs" [para]="para"></app-paraspecbox>
-        <app-flashbox *ngFor="let ps of data.pastSeminars" [title]="ps.title" [paras]="[{text:ps.description}]"></app-flashbox>
+        <app-seminarbox *ngFor="let seminar of data.pastSeminars" [seminar]="seminar"></app-seminarbox>
     </div>
     <div *ngIf="getQueryResults().length>0 && query.length>0">
-        <app-flashbox *ngFor="let res of getQueryResults()" [title]="res.title" [paras]="[{text:res.description}]"></app-flashbox>
+        <app-seminarbox *ngFor="let res of getQueryResults()" [seminar]="res"></app-seminarbox>
     </div>
 </div>

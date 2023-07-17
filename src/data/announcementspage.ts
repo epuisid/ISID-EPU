@@ -9,32 +9,11 @@ export const AnnouncementsData: announcementspecs[] = [
         title: `Hiring Announcements`,
         list: [
             {
-                title: `Visiting Assistant Professor`,
+                title: `Assistant Professor`,
                 paragraphs: [
-                    {
-                        text: `The <a href="https://www.isid.ac.in/~cecfee/">Centre for research on the Economics
-of Climate, Food, Energy and Environment (CECFEE)</a>, located in the <a href="https://www.isid.ac.in/~epu">
-Economics and Planning Unit (EPU)</a> at the <a href="https://www.isid.ac.in/">Indian Statistical Institute, Delhi Center
-</a>, India is looking to hire a Visiting Assistant Professor.
-`},
-                    {
-                        text: `The applicant must have a PhD in Economics with a credible research agenda in the field of labor economics,
-gender and human capital. The successful applicant will engage in research under the Digital Labor
-and Women’s Economic Empowerment project headed by Prof. <a href="https://www.isid.ac.in/~fafridi">Farzana Afridi</a>. 
-The position, subject to funding approval, will be contractual for a period of two years. Compensation will
-be at the level of an Assistant Professor taking into account relevant experience. As this
-is a contractual position, compensation will be on a “all inclusive” basis.
-`},
-                    { text: `Come, join us for cutting edge research on India’s labor markets!` },
-                    {
-                        text: `If interested, email CV and JMP to cecfee[at]isid.ac.in. 
-Applications will be accepted until the position is filled or cancelled. The position is subject to availability of funds.
-`},
-                    {
-                        text: `Over the years, the Economics and Planning Unit (EPU) at the ISI, Delhi has
-hired a number of PhDs at the entry level positions. Read about them
-and the benefits of being at EPU, ISI Delhi <a href="vap.html">here</a>.
-`}
+                 { text: `We are hiring Assistant Professors, particularly from the reserved category. There is a 
+                 rolling advertisement: [<a href="https://www.isical.ac.in/sites/default/files/jobs/Faculty%20Recruitment%20Advertisement%202022.pdf"> Advertisement</a>]
+                 Apply using the link.`}   
                 ]
             }
         ]

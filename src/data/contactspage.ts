@@ -19,18 +19,18 @@ export const ContactsPageData: contactsPageSpec = {
         {
             title: `Student Affairs (Admissions):`,
             paragraphs: [
-                { text: `<strong>Debasis Mishra </strong> (MSQE) and <strong>Tridip Ray</strong > (JRF)<br>
-                Room 224(Debasis) and Room 217(Tridip), Economics and Planning Unit, ISI Delhi<br>
-                Phone: +91 - 11 - 4149 3948(Debasis) and + 91 - 11 - 4149 3941(Tridip)<br>
-                Email: dmishra[at] isid.ac.in and tridip[at] isid.ac.in` }
+                { text: `<strong>Tridip Ray</strong > (MSQE and PhD)<br>
+                Room 217(Tridip), Economics and Planning Unit, ISI Delhi<br>
+                + 91 - 11 - 4149 3941(Tridip)<br>
+                Email: tridip[at] isid.ac.in` }
             ]
         },
         {
-            title: `Seminar Coordinator: <strong>Debasis Mishra</strong>`,
+            title: `Seminar Coordinator: <strong>E. Somanathan</strong>`,
             paragraphs: [
                 { text: `Room 224, Economics and Planning Unit, ISI Delhi<br>
                 Phone: +91 - 11 - 4149 3948<br>
-                Email: dmishra[at] isid.ac.in` }
+                Email: som [at] isid.ac.in` }
             ]
         },
         {

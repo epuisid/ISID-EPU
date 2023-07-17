@@ -15,20 +15,19 @@ Our MSQE students get placed in industry in India and abroad. Some of the compan
         Northwestern University, Caltech, Columbia University, University of Wisconsin, Cornell University,
         University of Texas, Austin</strong> and other US universities for their doctoral studies.`},
             {
-                text: `EPU proudly announces the placements of following MSQE students in PhD programs in academic year 2020-21:`
+                text: `EPU proudly announces the placements of following MSQE students in PhD programs in academic year 2022-23:`
             },
             {
                 list: [
-                    `Aroon Narayanan: <strong>MIT</strong>`,
-                    `Honey Batra: <strong>University of Minnesota</strong>`,
-                    `Bipul Verma: <strong>University of Minnesota</strong>`,
-                    `Vageesha Bainwala: <strong>Northwestern University</strong>`,
-                    `Sanjana Ghosh: <strong>Northwestern University (Kellogg)</strong>`,
-                    `Rajveer Jat: <strong>University of California, Riverside</strong>`
+                    `Aditi Acharya: <strong>University of California, San Diego</strong>`,
+                    `Meet Mehta: <strong>Yale University</strong>`,
+                    `Korok Dasgupta: <strong>Columbia University</strong>`,
+                    `Ishan Azad: <strong>Southern Methodist University</strong>`,
+                    `Aditya Kiran: <strong>Carnegie Mellon University</strong>`
                 ],
             },
             {
-                text: `and the following MSQE students in industry in 2020:`
+                text: `and the following MSQE students in industry in 2023:`
             },
             {
                 list: [

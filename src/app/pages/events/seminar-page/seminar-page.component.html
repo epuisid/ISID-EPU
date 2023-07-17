@@ -2,6 +2,6 @@
     <p class="title">{{data.title}}</p>
     <app-paraspecbox *ngFor="let para of data.paragraphs" [para]="para"></app-paraspecbox>
     <p class="subtitle fs-larger">{{data.upcomingSeminarsTitle}}</p>
-    <div *ngFor="let us of data.upcomingSeminars" [innerHTML]="us.text"></div>
+    <app-seminarbox *ngFor="let us of data.upcomingSeminars" [seminar]="us"></app-seminarbox>
     <p *ngIf="data.upcomingSeminars.length===0">{{data.altText}}</p>
 </div>

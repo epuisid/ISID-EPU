@@ -33,6 +33,7 @@ import { OthersPageComponent } from './pages/misc/others-page/others-page.compon
 import { PersonPageComponent } from './pages/people/person-page/person-page.component';
 import { PublicationBoxComponent } from './comps/publication-box/publication-box.component';
 import { CollapsibleComponent } from './comps/collapsible/collapsible.component';
+import { SeminarboxComponent } from './comps/seminarbox/seminarbox.component';
 
 @NgModule({
   declarations: [
@@ -66,7 +67,8 @@ import { CollapsibleComponent } from './comps/collapsible/collapsible.component'
     OthersPageComponent,
     PersonPageComponent,
     PublicationBoxComponent,
-    CollapsibleComponent
+    CollapsibleComponent,
+    SeminarboxComponent
   ],
   imports: [
     BrowserModule,

@@ -1,8 +1,8 @@
 :root{
-    --primary:#00356b;
-    --secondary:#286dc0;
-    --accent:#006ef5;
-    --light:#7eb3f5;
+    --primary:#04704e;
+    --secondary:#28c071;
+    --accent:#f59f00;
+    --light:#0cc01e;
     --mgvwidth:600px;
     
     
@@ -11,8 +11,8 @@
     letter-spacing: 0.5px;
     font-size: 19.5px;
     /* line-height: 30px; */
-    /* font-family: "Red Hat Display"; */
-    font-family: "Roboto Condensed",sans-serif;
+     font-family: "Oxygen";
+    /* font-family: "GT America Standard Regular",sans-serif; */
     /* font-family: 'Manrope',sans-serif; */
 }
 html,body{

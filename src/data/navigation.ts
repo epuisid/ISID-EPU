@@ -71,11 +71,11 @@ export const NavBarRoutes: routeSpec[] = [
             {
                 label:`Discussion Papers`,
                 route:`https://ideas.repec.org/s/alo/isipdp.html`
-            },
-            {
-                label:`Highlights`,
-                route:'https://ideas.repec.org/s/alo/isipdp.html',
             }
+            // {
+            //     label:`Highlights`,
+            //     route:'https://ideas.repec.org/s/alo/isipdp.html',
+            // }
         ]
     },
     {

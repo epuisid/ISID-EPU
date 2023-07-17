@@ -2,7 +2,10 @@ import { paraSpec } from "./rtl.utils";
 
 export interface seminarSpec{
     title:string;
-    description:string;
+    description?:string;
+    speaker?:string;
+    datetime?:string;
+    venue?:string;
 }
 export interface pastSeminarsSpec {
     title: string;
@@ -14,12 +17,33 @@ export const PastSeminarsData: pastSeminarsSpec = {
     paragraphs: [
         {
             text: `Please register for these seminar in order to receive invitations, by filling out the form <a href="https://forms.gle/prEBGTYj5Ctdzd2i9">here</a>.<br>
-            For questions, please contact our seminar coordinator <strong> Debasis Mishra</strong>
-            at <em>dmishra [at] isid.ac.in</em>. <br>
+            For questions, please contact our seminar coordinator <strong> E. Somanathan</strong>
+            at <em>som [at] isid.ac.in</em>. <br>
             Some of our seminars are recorded. The links are provided below. You can also check our youtube channel:`
         }
     ],
     pastSeminars: [
+        {
+            title: `<b>Locked-in Dirty Fuels: An ethnographic study on cooking fuel transition in Nusa Tenggara Timur, Indonesia</b> `,
+            description: `
+            Speaker: <b>Komali Yenneti, University of Wolverhampton</b><br>
+            Date: <b> 14 July 2023 </b><br>
+            Venue: <b> Seminar Room 2 </b><br>`
+        },
+        {
+            title: `<b>The Dynamics of Inequality in Democratic Public Good Provision</b> `,
+            description: `
+            Speaker: <b>Dyotona Dasgupta, O.P. Jindal Global University</b><br>
+            Date: <b> 04 July 2023 </b><br>
+            Venue: <b> Seminar Room 2 </b><br>`
+        },
+        {
+            title: `<b>A well-targeted interest rate policy</b> `,
+            description: `
+            Speaker: <b>Gurbachan Singh, (Visiting Professor) Ashoka University</b><br>
+            Date: <b> 12 May 2023 </b><br>
+            Venue: <b> Seminar Room 2 </b><br>`
+        },
         {
             title: `<b>Forest clearing and fatal human elephant conflict in India</b> `,
             description: `
@@ -38,21 +62,16 @@ export const PastSeminarsData: pastSeminarsSpec = {
         {
             title: ` <b>Does reshaping gender attitudes impact women's long term outcomes? Evidence from a school-based experiment</b> `,
             description: `
-Speaker: <b>Tarun Jain, IIM Ahmedabad</b><br>
-Date: <b> 17 March 2023 </b><br>
-Venue: <b> Seminar Room </b><br>
-
-
-`},
+            Speaker: <b>Tarun Jain, IIM Ahmedabad</b><br>
+            Date: <b> 17 March 2023 </b><br>
+            Venue: <b> Seminar Room </b><br>
+        `},
         {
             title: ` <b>Insurance Cyclicality</b> `,
             description: `
-
-Speaker: <b>Anand Chopra, IIT Kanpur</b><br>
-Date: <b> 10 March 2023</b><br>
-Venue: <b> Seminar Room </b><br>
-
-
+            Speaker: <b>Anand Chopra, IIT Kanpur</b><br>
+            Date: <b> 10 March 2023</b><br>
+            Venue: <b> Seminar Room </b><br>
     `},
         {
             title: ` <b>Intertemporal Expectations Coordination</b> `,
@@ -161,21 +180,15 @@ Venue: <b> Online </b><br>
 
     `},
         {
-            title: ` <b>Made in Heaven, Matched by Parents: Does Arranged Marr`,
+            title: ` <b>Made in Heaven, Matched by Parents: Does Arranged Marriage Restrict Labour Market Autonomy and Participation of Women? Theory and Evidence from India</b>`,
             description: `
-
-Restrict Labour Market Autonomy and Participation of Women? Theory and
-Evidence from India</b> <br>
 Speaker: <b>Anirban Kar, Delhi School of Economics</b><br>
 Date: <b> 11 November, 2022</b><br>
 Venue: <b> In Person </b><br>
-
-
     `},
         {
             title: ` <b>Some Characterizations of Generalized Top Trading Cycles</b> `,
             description: `
-
 Speaker: <b>Yuki Tamura, New York University, Abu Dhabi</b><br>
 Date: <b> 4 November, 2022</b><br>
 Venue: <b> Online </b><br>
@@ -759,10 +772,9 @@ Date: <b> Friday, 20th November, 2020 </b><br>
         {
             title: ` Did Railways affect Literacy? Evidence from India `,
             description: `
-
-Speaker: <strong>James Fenske, </strong><b>University of Warwick</b><br>
-Date: <b> Friday, 6th November, 2020 </b><br>
-<b>Recording</b>: <a href="https://www.youtube.com/embed/pT6SxpmZ4EY">https://www.youtube.com/embed/pT6SxpmZ4EY</a>
+            Speaker: <strong>James Fenske, </strong><b>University of Warwick</b><br>
+            Date: <b> Friday, 6th November, 2020 </b><br>
+            <b>Recording</b>: <a href="https://www.youtube.com/embed/pT6SxpmZ4EY">https://www.youtube.com/embed/pT6SxpmZ4EY</a>
 
 
  Title: A Structural Framework For Regional Macroeconomic Analysis <br>
@@ -807,14 +819,10 @@ Speaker: <strong>Rene Saran, </strong><b>University of Cincinnati, Friday, 2nd O
             description: `
 
 Speaker: <strong>Stefan Dercon, </strong><b>University of Oxford, 25th September, 2020 </b><br>
-<b>Recording</b>: <a href="https://www.youtube.com/embed/QVTut2hiGvw">https://www.youtube.com/embed/QVTut2hiGvw</a>
-
-
-    `},
+<b>Recording</b>: <a href="https://www.youtube.com/embed/QVTut2hiGvw">https://www.youtube.com/embed/QVTut2hiGvw</a>`},
         {
             title: ` <b>Maternal Mortality and Women's Political Participation</b> `,
             description: `
-
 Speaker: <strong>Joseph Flavian Gomes, </strong><b>Economics of School of Louvain, 18th September, 2020 </b><br>
 <b>Recording</b>: <a href="https://www.youtube.com/embed/1n19jozmG-o">https://www.youtube.com/embed/1n19jozmG-o</a>
 
@@ -918,8 +926,8 @@ Speaker: <strong> Arjun Jayadev, </strong><b>Azim Premji University, 26th June, 
         {
             title: ` <b>Irrigation and culture: gender roles and rights</b> `,
             description: `
-Speaker: <strong> Satyendra Kumar Gupta, </strong><b>O. P. Jindal Global University, 12th June, 2020 </b>
-`}
+            Speaker: <strong> Satyendra Kumar Gupta, </strong><b>O. P. Jindal Global University, 12th June, 2020 </b>
+            `}
 
     ]
 }

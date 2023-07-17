@@ -1,0 +1,18 @@
+<app-flashbox [title]="seminar.title">
+    <div class="col details">
+        <div class="row" *ngIf="seminar.speaker">
+            <i class="fa fa-microphone"></i>
+            <span class="speakers"><b>{{seminar.speaker}}</b></span>
+        </div>
+        <div class="row" *ngIf="seminar.datetime">
+            <i class="fa fa-calendar"></i>
+            <b>{{seminar.datetime}}</b>
+        </div>
+        <div class="row" *ngIf="seminar.venue">
+            <i class="fa fa-map-marker"></i>
+            <b>{{seminar.venue}}</b>
+        </div>
+    </div>
+    
+    <app-paraspecbox *ngIf="seminar.description" [para]="{text:seminar.description}"></app-paraspecbox>
+</app-flashbox>

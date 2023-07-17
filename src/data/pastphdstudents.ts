@@ -13,6 +13,22 @@ export const PastPhdStudentsData: pastphdstudents = {
     title: `PhD students graduated since 2010`,
     students: [
         {
+            name: `Sujaya Sircar `,
+            year: `2023`,
+            description: `<em><a href="http://dspace.isical.ac.in:8080/jspui/bitstream/10263/7366/1/Thesis_Sujaya_Sircar_30-5-23.pdf">
+            A Weather Eye on Employment and Education: Essays on Employment Polarization, Technology and Human Capital Formation</a></em> (Advisor: <b><a href="https://www.isid.ac.in/~tridip">Tridip Ray</a></b>)<br>
+        First placement: Assistant Professor, Indian Institute of Technology, Kanpur<br><br>`
+        },
+
+        {
+            name: `Nikita Sangwan `,
+            year: `2023`,
+            description: `<em><a href="http://dspace.isical.ac.in:8080/jspui/bitstream/10263/7364/2/Nikita%20Sangwan-Thesis-11-4-23.pdf">
+            Technology, shocks, and labor response: A gendered perspective</a></em> (Advisor: <b><a href="https://www.isid.ac.in/~fafridi">Farzana Afridi</a></b>)<br>
+        First placement: Visiting Assistant Professor, Centre for Research on the Economics of Climate, Food, Energy and Environments, Indian Statistical Institute, Delhi<br><br>`
+        },
+
+        {
             name: `Siddharth Chatterjee `,
             year: `2022`,
             description: `<em><a href="http://dspace.isical.ac.in:8080/jspui/bitstream/10263/7355/1/Siddharth%20Chatterjee-thesis-23-3-23.pdf">
