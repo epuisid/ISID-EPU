@@ -40,10 +40,10 @@ export const facultyPageData:facultyPageSpecs = {
     staff:[
         {
             image:`assets/people/athisi.jpg`,
-            imageLink:`https://www.sciencedirect.com/science/article/pii/S0305750X18302018#!`,
+            imageLink:`https://sites.google.com/site/athisikayina/`,
             name:`Athissi Kayina`,
             description:`Research Scientist, EPU <br>
-            <a href="https://sites.google.com/site/athisikayina/">Webpage</a>`
+            <a href="https://www.sciencedirect.com/science/article/pii/S0305750X18302018#!">Publication</a>`
         },
         {
             image:`assets/people/ravi.jpg`,
