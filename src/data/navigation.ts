@@ -141,5 +141,9 @@ export function getAllRoutes():Routes{
     routes.push(...objectToVals(miscRoutes).map((routespec,index,[])=>parseRouteSpec(routespec)))
     routes.push(...(otherRoutes).map((routespec,index,[])=>parseRouteSpec(routespec)))
     routes.push(...(personRoutes).map((routespec,index,[])=>parseRouteSpec(routespec)))
+    routes.push({
+        path:'**',
+        redirectTo:''
+    })
     return routes
 }
