@@ -13,8 +13,12 @@
             <a *ngIf="person.personPageKey" class="personLink" [routerLink]="'/people/individual/'+person.personPageKey">
                 {{person.name}}
             </a>
-            <i *ngIf="person.personPageKey" style="color: white;" class="fa fa-external-link-square"></i>
-            <div *ngIf="!person.personPageKey">{{person.name}}</div>
+            <a *ngIf="(!person.personPageKey)&&(person.imageLink)" class="personLink" [href]="person.imageLink">
+                {{person.name}}
+            </a>
+            <i *ngIf="person.personPageKey||person.imageLink" style="color: white;" class="fa fa-external-link-square"></i>
+            
+            <div *ngIf="(!person.personPageKey)&&(!person.imageLink)">{{person.name}}</div>
         </div>
     </div>
     <div class="body fs-medium">
