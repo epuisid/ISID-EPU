@@ -1,7 +1,7 @@
 import { paraSpec, textPageSpec } from "./rtl.utils";
 
 export const WorkshopsPageData:textPageSpec = {
-    title:`Regular Workshops`,
+    title:`Workshops`,
     paragraphs:[
         {
             text:`EPU organizes workshops in regular intervals in specific areas. Some workshops which happen regularly are:`

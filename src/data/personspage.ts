@@ -32,10 +32,10 @@ export const PersonsData:personsSpec = {
             {
                 text:`Arunava Sen is a professor in the Economics and Planning 
                 Unit of the Indian Statistical Institute (ISI), Delhi.
-                <br>
+                <br><br>
                 He received his PhD from Princeton University in 1987. He joined 
                 ISI Delhi in 1988 and has been with ISI ever since. 
-                <br>
+                <br><br>
                 Arunava is a recipient of the Infosys Prize in Social Science in 
                 2012. He is also a fellow of the Econometric Society, an Economic 
                 Theory Fellow, former member of council of Econometric Society, 
@@ -43,11 +43,11 @@ export const PersonsData:personsSpec = {
                 is an advisory editor of Journal of Mathematical Economics, and 
                 associate editor of Social Choice and Welfare, Economic Theory, 
                 Review of Economic Design, and Mathematical Social Sciences.
-                <br>
+                <br><br>
                 The main areas of research of Arunava are game theory, social 
                 choice theory, mechanism design, voting and auction. He teaches 
                 courses on microeconomics and game theory at ISI Delhi.
-                <br>
+                <br><br>
                 On the occasion of Arunava’s 60th birthday celebrations, there was
                 <a href="https://sites.google.com/view/arunava60/">
                 a research conference in ISI Delhi
@@ -138,19 +138,19 @@ export const PersonsData:personsSpec = {
             {
                 text:`Debasis Mishra is a professor in the Economics and Planning 
                 Unit of the Indian Statistical Institute (ISI), Delhi.
-                <br>
+                <br><br>
                 He received his PhD from University of Wisconsin, Madison in 
                 2004. He joined ISI Delhi in 2006. Prior to that he was a 
                 post-doc at Center for Operations Research and Econometrics 
                 (CORE) in Louvain-la-Neuve, Belgium and Indian Institute of 
                 Science, Bangalore.
-                <br>
+                <br><br>
                 Debasis is currently an advisory editor of Games and Economic 
                 Behavior and an associate editor of Social Choice and Welfare. He 
                 is an elected council member of Game Theory Society (2021-2027) 
                 and was an elected council member of Society for Social Choice 
                 and Welfare (2016-2021).
-                <br>
+                <br><br>
                 The main areas of research of Debasis are mechanism design, 
                 auction theory, and social choice theory. He teaches courses on 
                 game theory, mechanism design, and mathematical programming at 
@@ -159,6 +159,10 @@ export const PersonsData:personsSpec = {
             }
         ],
         profileLinks:[
+            {
+                link:`https://scholar.google.co.in/citations?user=4m3BMHEAAAAJ&hl=en`,
+                site:`Google Scholar`
+            },
             {
                 site:`Website`,
                 link:`http://www.isid.ac.in/~dmishra`
@@ -224,12 +228,12 @@ export const PersonsData:personsSpec = {
             {
                 text:`E. Somanathan is Professor in the Economics and Planning 
                 Unit of the Indian Statistical Institute in Delhi. 
-                <br>
+                <br><br>
                 Som received his PhD from Harvard University and has taught at 
                 Emory University, the University of Michigan, and Princeton 
                 University, and been a Fellow at the Center for Advanced Study in 
                 the Behavioral Sciences at Stanford University. 
-                <br>
+                <br><br>
                 Som is a fellow of and was a member of the board of BREAD (Bureau 
                 for Research and Economic Analysis of Development). He founded 
                 the
@@ -243,7 +247,7 @@ export const PersonsData:personsSpec = {
                 Co-ordinating Lead Author for the Fifth Assessment Report of the 
                 IPCC, and is a Co-Editor of the journal Environment and 
                 Development Economics.
-                <br>
+                <br><br>
                 The main area of research of Som is in the economics of 
                 environment and development. He teaches environmental economics 
                 and history of economic thought at ISI Delhi.
@@ -251,6 +255,10 @@ export const PersonsData:personsSpec = {
             }
         ],
         profileLinks:[
+            {
+                link:`https://scholar.google.com/citations?user=drfV8loAAAAJ&hl=en`,
+                site:`Google Scholar`
+            },
             {
                 site:`Website`,
                 link:`http:www.isid.ac.in/~som`
@@ -324,12 +332,12 @@ export const PersonsData:personsSpec = {
             {
                 text:`Kanishka Kacker is an Assistant Professor in the Economics 
                 and Planning Unit of the Indian Statistical Institute in Delhi. 
-                <br>
+                <br><br>
                 Kanishka received his PhD from the University of Maryland, 
                 College Park in 2014. He joined ISI in 2017 as a Visiting 
                 Assistant Professor. Prior to this he worked in the World Bank 
                 office in Washington DC. 
-                <br>
+                <br><br>
                 He is a member of the 
                 <a href="https://www.isid.ac.in/~cecfee/">
                 Center for research in the economics of 
@@ -337,7 +345,7 @@ export const PersonsData:personsSpec = {
                 </a>
                 at ISI and the 
                 INSEE network.
-                <br>
+                <br><br>
                 The main area of research for Kanishka is energy and environment, 
                 with a focus on empirical methods. He teaches Statistics and 
                 Applied Policy Analysis.
@@ -345,6 +353,10 @@ export const PersonsData:personsSpec = {
             }
         ],
         profileLinks:[
+            {
+                link:`https://scholar.google.com/citations?user=UsIdSX4AAAAJ&hl=en&oi=ao`,
+                site:`Google Scholar`
+            },
             {
                 site:`Website`,
                 link:`https://kanishkakacker.wixsite.com/mysite`
@@ -390,13 +402,13 @@ export const PersonsData:personsSpec = {
             {
                 text:`Farzana Afridi is Professor in the Economics and Planning 
                 Unit of the Indian Statistical Institute in Delhi. 
-                <br>
+                <br><br>
                 Farzana received her PhD from the University of Michigan (Ann 
                 Arbor) and has taught at the Maxwell School of Citizenship and 
                 Public Affairs at Syracuse University, Delhi School of Economics, 
                 Geneva Graduate Institute and the National University of 
                 Singapore. 
-                <br>
+                <br><br>
                 Farzana is a research fellow at the Institute of Labor Economics 
                 (IZA, Bonn), member of the International Growth Center’s (IGC at 
                 LSE-Oxford) steering group and has been the Lead Academic of the 
@@ -408,7 +420,7 @@ export const PersonsData:personsSpec = {
                 (MOSPI). Farzana currently heads the Digital Platforms and 
                 Women’s Economic Empowerment (DP-WEE) project supported by the 
                 Bill and Melinda Gates Foundation.
-                <br>
+                <br><br>
                 Farzana’s main areas of research are labour and development 
                 economics. She teaches econometrics and labour economics at ISI 
                 Delhi.
@@ -416,6 +428,10 @@ export const PersonsData:personsSpec = {
             }
         ],
         profileLinks:[
+            {
+                link:`https://scholar.google.com/citations?user=AuO0mNoAAAAJ&hl=en`,
+                site:`Google Scholar`
+            },
             {
                 link:'https://www.isid.ac.in/~fafridi/',
                 site:`Website`
@@ -486,7 +502,7 @@ export const PersonsData:personsSpec = {
             {
                 text:`Tridip Ray is a Professor in the Economics and Planning 
                 Unit of the Indian Statistical Institute in Delhi.
-                <br>
+                <br><br>
                 Tridip received his PhD from Cornell University and has 
                 previously taught at Hong Kong University of Science and 
                 Technology, where he won numerous awards for his teaching. Tridip 
@@ -496,7 +512,7 @@ export const PersonsData:personsSpec = {
                 </a>
                 at ISI Delhi, which is regarded as one of 
                 the premier conferences in development economics.
-                <br>
+                <br><br>
                 Tridip’s main areas of research are development economics, 
                 inequality, economics of education, and applied microeconomics. 
                 He teaches development economics and mathematical methods in 
@@ -538,6 +554,10 @@ export const PersonsData:personsSpec = {
         ],
         profileLinks:[
             {
+                link:`https://scholar.google.com/citations?user=9aPizDoAAAAJ&hl=en`,
+                site:`Google Scholar`
+            },
+            {
                 site:`Website`,
                 link:`https://www.isid.ac.in/~tridip/`
             }
@@ -554,14 +574,14 @@ export const PersonsData:personsSpec = {
                 text:`Monisankar Bishnu is an Associate Professor in the 
                 Economics and Planning Unit of the Indian Statistical Institute 
                 (ISI), Delhi Centre.
-                <br>
+                <br><br>
                 He received his Ph. D. from the Iowa State University. Prior to 
                 joining Indian Statistical Institute, he was a Senior Lecturer at 
                 the Research School of Economics of the Australian National 
                 University (ANU) in Canberra, Australia. He also held visiting 
                 positions at the Indian Statistical Institute and Iowa State 
                 University.
-                <br>
+                <br><br>
                 Moni is also associated with the Centre for Advanced 
                 macroeconomic Analysis (CAMA) at the ANU and the Australian 
                 research Council (ARC) Centre of Excellence in Population Ageing 
@@ -569,7 +589,7 @@ export const PersonsData:personsSpec = {
                 of Journal of Asian Economic and Economic Modelling, and a Review 
                 Editor of the interdisciplinary journal Frontiers in Political 
                 Science.
-                <br>
+                <br><br>
                 His main area of research is the macroeconomic aspects of Public 
                 Finance including pensions, Credit Market and Labour.`
             }
@@ -628,6 +648,10 @@ export const PersonsData:personsSpec = {
         ],
         profileLinks:[
             {
+                link:`https://scholar.google.co.in/citations?user=UZx6SsMAAAAJ&hl=en`,
+                site:`Google Scholar`
+            },
+            {
                 site:`Website`,
                 link:`https://www.isid.ac.in/~mbishnu/`
             }
@@ -646,14 +670,14 @@ export const PersonsData:personsSpec = {
                 text:`Abhiroop Mukhopadhyay is a Professor in the Economics and 
                 Planning Unit of the Indian Statistical Institute in Delhi. He is 
                 the current Head of Department.
-                <br>
+                <br><br>
                 Abhiroop received his Ph.D. from the Pennsylvania State 
                 University. He was a Hermes (CNRS) Post Doctoral Fellow at GREQAM 
                 (Marseille) and the Sir Ratan Tata Senior Research Fellow at the 
                 Institute of Economic Growth (Delhi). He joined ISI (Delhi) in 
                 2004. He received the Mahalanobis Gold Medal from The Indian 
                 Econometric Society in 2018. 
-                <br>
+                <br><br>
                 Abhiroop is a research fellow at the Institute of Labor Economics 
                 (IZA, Bonn), an associated researcher for Centre De Sciences 
                 Humaines (Delhi) and an Executive Council member of the 
@@ -662,7 +686,7 @@ export const PersonsData:personsSpec = {
                 and Family Welfare and Ministry of Rural Development. He is also 
                 a team member of AMIE (Association for Mentoring and Inclusion in 
                 Economics) and a board member of LEHER (a child rights NGO).
-                <br>
+                <br><br>
                 Abhiroop’s main area of research is in education and labour 
                 economics. He teaches econometrics and economics of education at 
                 ISI Delhi.
@@ -723,6 +747,10 @@ export const PersonsData:personsSpec = {
         ],
         profileLinks:[
             {
+                link:`https://scholar.google.com/citations?user=mu_lttwAAAAJ&hl=en`,
+                site:`Google Scholar`
+            },
+            {
                 site:`Website`,
                 link:`https://sites.google.com/view/abhiroop`
             }
@@ -740,13 +768,13 @@ export const PersonsData:personsSpec = {
                 Unit of the Indian Statistical Institute in Delhi. He is 
                 currently on leave serving as Director, Institute of Economic 
                 Growth, Delhi. 
-                <br>
+                <br><br>
                 Chetan received his Ph.D. from Claremont Graduate University, 
                 California, in 1999. 
                 He joined ISI Delhi in 2003 after visiting positions in Colorado 
                 College, ISI Delhi, and the German Institute of Economic Research 
                 (DIW Berlin). 
-                <br>
+                <br><br>
                 In 2014, Chetan was awarded the Mahalanobis Memorial Gold Medal. 
                 He was a member of the Reserve Bank of India’s first Monetary 
                 Policy Committee (MPC) from October 2016 - October 2020. From 
@@ -760,7 +788,7 @@ export const PersonsData:personsSpec = {
                 Review.  He is an external affiliate of the Centre for Research 
                 in Macroeconomics and Macro-Finance at Swansea University. He is 
                 a member of the Macro Finance Society.
-                <br>
+                <br><br>
                 Chetan’s main area of research is in the fields of 
                 macroeconomics, monetary economics, economic growth and 
                 development, and the Indian macroeconomy. He has taught in India, 
@@ -823,6 +851,10 @@ export const PersonsData:personsSpec = {
         ],
         profileLinks:[
             {
+                link:`https://scholar.google.com/citations?user=X5tbcAkAAAAJ&hl=en`,
+                site:`Google Scholar`
+            },
+            {
                 site:`Website`,
                 link:`https://www.isid.ac.in/~cghate/`
             }
@@ -839,13 +871,13 @@ export const PersonsData:personsSpec = {
                 text:`Mudit Kapoor is an Associate Professor of Economics in the 
                 Economics and Planning Unit of the Indian Statistical Institute 
                 in Delhi. 
-                <br>
+                <br><br>
                 Mudit received his Ph.D. from University of Maryland in College 
                 Park in 2004. 
-                <br>
+                <br><br>
                 He joined ISI Delhi in 2015 after academic position in Indian 
                 School of Business (ISB), Hyderabad, India. 
-                <br>
+                <br><br>
                 Mudit has been a member of Key Advisory Group on Chit Funds set 
                 up by the Ministry of Finance, Government of India. He was in the 
                 Technical Adivsory Group of the National Data Analytics Platform 
@@ -896,12 +928,12 @@ export const PersonsData:personsSpec = {
         ],
         profileLinks:[
             {
-                link:`http://www.muditkapoor.org/`,
-                site:`Website`
+                link:`https://scholar.google.co.in/citations?user=QKKOrUEAAAAJ&hl=en`,
+                site:`Google Scholar`
             },
             {
-                link:`https://www.muditkapoor.org/research`,
-                site:`List of Publications`
+                link:`http://www.muditkapoor.org/`,
+                site:`Website`
             }
         ],
     },
@@ -915,17 +947,17 @@ export const PersonsData:personsSpec = {
             {
                 text:`Prabal Roy Chowdhury is a professor in the Economics and 
                 Planning Unit of the Indian Statistical Institute (ISI), Delhi.
-                <br>
+                <br><br>
                 He received his PhD from ISI Delhi in 1993. Since then he has 
                 worked at the Indian Institute of Management Kolkata and 
                 Jawaharlal Nehru University, before joining ISI Delhi in 2003. 
                 Prior to that he was a post-doc at Center for Operations Research 
                 and Econometrics (CORE) in Louvain-la-Neuve, Belgium.
-                <br>
+                <br><br>
                 Prabal is a recipient of the Journal of Development Economics 
                 best paper award in 2007. He is the editor of Indian Growth and 
                 Development Review.
-                <br>
+                <br><br>
                 His main areas of research are bargaining theory, industrial 
                 organization, and development economics. He teaches courses on 
                 microeconomics and industrial organization at ISI Delhi.
@@ -981,6 +1013,10 @@ export const PersonsData:personsSpec = {
             },
         ],
         profileLinks:[
+            {
+                link:`https://scholar.google.co.in/citations?user=Odf_tA8AAAAJ&hl=en`,
+                site:`Google Scholar`
+            },
             {
                 site:`Website`,
                 link:`https://www.isid.ac.in/~prabalrc/`

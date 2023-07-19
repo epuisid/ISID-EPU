@@ -11,7 +11,7 @@ export interface seminarPageSpec{
 }
 
 export const SeminarPageData:seminarPageSpec = {
-    title:`Upcoming Seminars`,
+    title:`Seminars`,
     paragraphs:[
         {
             text:`Please register for the seminar in order to receive invitations, by clicking the link below:
@@ -25,6 +25,7 @@ export const SeminarPageData:seminarPageSpec = {
             Our past webinars (some with recordings) have been archived here:
             <br>
             <br>
+            
             <a href="misc/pastseminars">Past Seminars</a>
             <br>`,
             image:`assets/campus/Seminar2.jpg`,
