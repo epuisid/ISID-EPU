@@ -31,19 +31,17 @@ Our MSQE students get placed in industry in India and abroad. Some of the compan
             },
             {
                 list: [
-                    `Amit Garg: <strong> UBS</strong>`,
-                    `Ayush Yadav: <strong> UBS</strong>`,
-                    `Rishabh Gupta: <strong> UBS</strong>`,
-                    `Amit Sharma: <strong> JP Morgan Chase</strong>`,
-                    `Himanshi: <strong> JP Morgan Chase</strong>`,
-                    `Prashant Kumar: <strong> JP Morgan Chase</strong>`,
-                    `Amit Sharma: <strong> JP Morgan Chase</strong>`,
-                    `Teja Sri Ankisetty: <strong> JP Morgan Chase</strong>`,
-                    `Damini: <strong> Citibank</strong>`,
-                    `Poonam: <strong> Decimal</strong>`,
-                    `Prateek: <strong> Genpact</strong>`,
-                    `Ravinder: <strong> Wipro</strong>`,
-                    `Rishabh Wadhwa: <strong> Citicorp</strong>`
+                    `Rahul Kushwaha, Vigya Kaushal: <strong> Urgo Capital</strong>`,
+                    `Anubhav Jhunjhunwala, Saurabh Joshi, Varun Pathak, Nikita Singh: <strong> KPMG</strong>`,
+                    `Asmita Raychaudhari, Sanyam Agarwal, Trived Kulappa, Alok Ranjan Sharma: <strong> UBS</strong>`,
+                    `Labeeb Hassan, Khushi Kannojia: <strong> Yes Bank</strong>`,
+                    `Mahima Yadav, Ayushi Bajaj: <strong> Citibank</strong>`,
+                    `Mohnesh Kumar: <strong> EXL Services</strong>`,
+                    `Bikash Jaiswal, Shashwat Jain: <strong> ICICI Bank</strong>`,
+                    `Jay Lohia: <strong> Capital One</strong>`,
+                    `Noopur Datar, Rithish Reddy: <strong> JPMorgan Chase</strong>`,
+                    `Navneet Jha: <strong> Bank of America</strong>`,
+                    `Priyharsh Gangwar: <strong> Qube Research</strong>`
                 ]
             }
         ]
@@ -52,13 +50,9 @@ Our MSQE students get placed in industry in India and abroad. Some of the compan
         title: `PhD Placements`,
         paragraphs: [
             {
-                text: `Our PhD students are placed in universities, reserve banks, and research institution in India and abroad.`
+                text: `Our PhD students are placed in universities, reserve banks, and research institution in India and abroad.
+                See details of first placements since 2010 here: [<a href="./misc/pastphdstudents">Past PhD Placements</a>]`
             },
-            {
-                list:[
-                    `Dipjyoti Majumdar. <br>First placement: <strong>Post-doc, Center for Operations Research and Econometrics (CORE), Belgium</strong>.<br> Current position: <strong>Faculty, Concordia University</strong>`
-                ]
-            }
         ]
     }
 ]
