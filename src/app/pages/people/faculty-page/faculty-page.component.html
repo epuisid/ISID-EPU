@@ -1,11 +1,11 @@
 <div class="main">
     <p class="title">{{data.title}}</p>
-    <p class="subtitle fs-larger">{{data.subtitleForProfs}}</p>
+    <p class="subtitle">{{data.subtitleForProfs}}</p>
     <div class="grid">
         <app-personbox class="desktop" *ngFor="let prof of data.professors" [person]="prof" ></app-personbox>
         <app-studentbox class="mobile" *ngFor="let prof of data.professors" [person]="prof"></app-studentbox>
     </div>
-    <p class="subtitle fs-larger">{{data.subtitleForStaff}}</p>
+    <p class="subtitle">{{data.subtitleForStaff}}</p>
     <div class="grid">
         <app-personbox class="desktop" *ngFor="let staffmember of data.staff" [person]="staffmember"></app-personbox>
         <app-studentbox class="mobile" *ngFor="let staffmember of data.staff" [person]="staffmember"></app-studentbox>

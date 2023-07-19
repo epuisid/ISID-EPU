@@ -29,14 +29,15 @@
   /* padding: 14px 16px; */
   background-color: inherit;
 }
+.childRoute{
+  background-color: white;
+  position: relative;
+  z-index: 2;
+}
 .desktop .childRoute{
   padding: 10px;
-  background-color: white;
 }
 
-.mobile .childRoute{
-  background-color: white;
-}
 
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: #ddd;
@@ -48,7 +49,7 @@
   position: absolute;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 2;
+  background-color: inherit;
 }
 .dropdown-content.mobile{
   outline: none;

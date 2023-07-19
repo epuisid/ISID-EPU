@@ -6,6 +6,8 @@
 .text{
     justify-content: flex-start;
     align-items: stretch;
+    position: relative;
+    z-index: 2;
 }
 .imgdiv{
     border: 3px solid var(--primary);

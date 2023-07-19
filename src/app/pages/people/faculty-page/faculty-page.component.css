@@ -1,7 +1,4 @@
 
-.subtitle{
-    color: var(--secondary);
-}
 .grid{
     display: grid;
     align-items: center;

@@ -20,8 +20,11 @@ export const PhdPageData: phdProgramSpecs = {
         { text: `Ph.D. students can avail of generous research fellowships offered by the ISI. Students who will do field work to collect their own data or have other needs for research funds can get funding from the PPRU (Planning and Policy Research Unit), an endowment given to the Economics and Planning Unit by the Planning Commission. A congenial and stimulating environment for research includes the active <a title="Events" href="http://www.isid.ac.in/~epu/?page_id=56">seminar series</a>, the <a href="http://www.isid.ac.in/~epu/?page_id=223">annual conference on growth and development</a>, (one of the world’s major conferences in development economics, and the largest in India), and the opportunity to interact with internationally established empirical researchers through the <a href="http://www.theigc.org/countries/india-central">International Growth Centre</a>-ISI <a href="http://www.theigc.org/events/igc-isi-india-development-policy-conference-0">conferences</a>. There are ample opportunities to go to national and international conferences and present research. Doctoral students typically get funded for one international conference a year, subject to the availability of funding. The presence of a very strong <a href="http://www.isid.ac.in/%7Estatmath/"> Statistics and Mathematics Unit</a> at the ISI, Delhi, means that Ph.D. students interested in applied work or econometrics have additional intellectual resources to draw upon.`,
         image:`assets/campus/Seminar3.jpg` },
         { text: `Past Doctoral students from our doctoral program have been placed at top departments in India and abroad:` },
-        { text: `To know about our past PhD students, please click below:` },
-        {internalLink:miscRoutes['pastPhdStudents']},
+        {
+            text: `To know about our past PhD students, please
+            <a href="misc/pastphdstudents">
+            click here.
+            </a>` },
         { text: `Below are a set of FAQs that we regularly encounter from prospective students.` }
     ],
     faqs: [

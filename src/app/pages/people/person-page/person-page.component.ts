@@ -20,5 +20,9 @@ export class PersonPageComponent {
     let parts = (window.location.href).split('/')
     let key = parts[parts.length-1]
     this.data = this.allPersons[key]
+    window.scrollTo({
+      top:0,
+      behavior:'smooth'
+    })
   }
 }

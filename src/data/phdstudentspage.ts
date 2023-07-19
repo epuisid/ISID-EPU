@@ -13,7 +13,10 @@ export const PhDStudentsData: PhdStudentsSpec = {
     title: `PhD Students`,
     subtitlePastPhDStudents: `Profile of Past PhD Students:`,
     linkToPastPhDStudents: {
-        internalLink: miscRoutes["pastPhdStudents"]
+        text:`You can find our
+        <a href="misc/pastphdstudents">
+        past phd students here.
+        </a>`
     },
     subtitleCurrentPhDStudents: `Current PhD Students:`,
     phdStudents: [

@@ -1,8 +1,8 @@
 <div>
     <p class="title">{{data.title}}</p>
-    <p class="subtitle fs-larger">{{data.subtitlePastPhDStudents}}</p>
+    <p class="subtitle">{{data.subtitlePastPhDStudents}}</p>
     <app-paraspecbox [para]="data.linkToPastPhDStudents"></app-paraspecbox>
-    <p class="subtitle fs-larger">{{data.subtitleCurrentPhDStudents}}</p>
+    <p class="subtitle">{{data.subtitleCurrentPhDStudents}}</p>
     <div class="grid">
         <app-studentbox *ngFor="let student of data.phdStudents" [person]="student" [width]="'290px'"></app-studentbox>
     </div>
