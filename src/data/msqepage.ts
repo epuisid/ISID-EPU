@@ -6,8 +6,8 @@ export interface msqePageSpecs{
     paragraphs:paraSpec[]
 }
 export const MSQEPageData:msqePageSpecs = {
-    title:`Masters Program`,
-    subtitle:`Masters of Science in Quantitative Economics (MSQE)`,
+    title:`Masters of Science in Quantitative Economics (MSQE)`,
+    subtitle:``,
     paragraphs:[
         {
             text:`<a href="http://ideas.repec.org/top/top.india.html">One of the top ranked</a> economics departments in India (futher rankings are available <a href="https://www.aeaweb.org/resources/students/grad-prep/program-rankings">here</a> and <a href="http://econphd.econwiki.com/rankings.htm">here</a>), the Economics and Planning Unit at ISI welcomes students at the Masters level. The Economics and Planning Unit offers a two-year program in Master of Science in Quantitative Economics (MSQE).<br>
@@ -27,7 +27,7 @@ export const MSQEPageData:msqePageSpecs = {
             text:`Note: that the information given here is not exhaustive. This is only an overview of the program and requirements. For detailed information, contact our student affairs contact Tridip Ray (<it>tridip [at] isid.ac.in</it>). `
         },
         {
-            text:`Placement: Our M.S.Q.E. students get placed in industry in India and abroad. Some of the companies which recruited M.S.Q.E. students in the last few years are D.E. Shaw, Genpact, Goldman Sachs, HP Analytics, ICICI Bank, JP Morgan, KPMG, Walmart. Some of our M.S.Q.E. students go abroad for doctoral studies. Over the last few years, our students have received scholarships from <strong>Harvard University, MIT, Princeton University, Yale University, University of Pennsylvania, New York University, University of Minnesota, Northwestern University, Caltech, Columbia University, University of Wisconsin, Cornell University, University of Texas, Austin</strong> and other US universities for their doctoral studies. Visit the <a href="/home/placements">placement link</a> for further details on campus recruitments.`,
+            text:`Placement: Our M.S.Q.E. students get placed in industry in India and abroad. Some of the companies which recruited M.S.Q.E. students in the last few years are D.E. Shaw, Genpact, Goldman Sachs, HP Analytics, ICICI Bank, JP Morgan, KPMG, Walmart. Some of our M.S.Q.E. students go abroad for doctoral studies. Over the last few years, our students have received scholarships from <strong>Harvard University, MIT, Princeton University, Yale University, University of Pennsylvania, New York University, University of Minnesota, Northwestern University, Caltech, Columbia University, University of Wisconsin, Cornell University, University of Texas, Austin</strong> and other US universities for their doctoral studies. Visit the <a href="https://www.isid.ac.in/~placement">placement link</a> for further details on campus recruitments.`,
             image:`assets/campus/students2.jpeg`,
         },
     ]

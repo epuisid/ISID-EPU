@@ -15,7 +15,7 @@ export const VisitorsPageData:visitorsPageSpec = {
     title:`Visiting Faculty Profile`,
     facultyLists:[
         {
-            subtitle:`Visiting Faculty of Economics and Planning Unit`,
+            subtitle:``,
             faculty:[
                 {
                     name:`Neha Bailwal`,
