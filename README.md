@@ -178,3 +178,14 @@ export const othersData:othersSpec = {
 }
 
 ```
+
+## Git commands
+### When you make changes:
+1. `git add -A`
+2. `git commit -m "message describing changes"`
+3. `git push origin master`
+
+### When someone else makes changes and has pushed them
+If all your changes are committed and pushed, just do:
+1. `git pull origin master`
+Otherwise, first do the three commands given above, then this.
