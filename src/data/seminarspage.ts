@@ -35,11 +35,11 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
         {
-            title: `Doubt: Insights from a cross-cultural experiment`,
-            speaker: `Subrato Banerjee, IIT Bombay`,
-            datetime: ` 21 July 2023, 11:30 AM `,
+            title: `Follow the Crowd: But Who Follows, Who Counteracts, and Which Crowd?`,
+            speaker: `Moses Shayo, Hebrew University of Jerusalem`,
+            datetime: ` 04 August 2023, 11:30 AM `,
             venue: ` Seminar Room 2 `,
-            description:`Abstract: Through a cross-cultural experiment involving participants from Australia, India and the USA, we demonstrate that a decrease in the volume of relevant knowledge can indeed significantly increase the strength of one's opinion (as measured on the Likert scale). Our research shows that people who are less-informed can have stronger opinions than those who are more informed. We finally provide useful insights on why religious opinion is stronger than scientific opinion even on scientific matters (e.g. on the origin of the universe). Our results are robust across different cultures.`
+            description:`Abstract: We study social learning, conformity, and differentiation within and across groups (Scots and English in the UK; political blocs in Israel). Our experiments cross-randomize observed ingroup and outgroup norms in several domains. Results show that, overall, individuals follow their ingroup much more than they follow their outgroup. Behavior varies systematically across individuals: those who strongly identify with their group not only follow ingroup norms more, but often choose the opposite of observed outgroup norms. Such counteracting seems to rest on intergroup animosity and on ingroup-biased perceptions of others' knowledge. Thus, when identities diverge, the same information can have contradictory effects.`
         },
         {
             title: `Repeated Trading: Transparency and Market Structure`,
