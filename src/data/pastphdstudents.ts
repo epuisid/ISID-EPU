@@ -13,6 +13,13 @@ export const PastPhdStudentsData: pastphdstudents = {
     title: `PhD students graduated since 2010`,
     students: [
         {
+            name: `Ahana Basistha `,
+            year: `2023`,
+            description: `<em><a href="http://dspace.isical.ac.in:8080/jspui/bitstream/10263/7404/1/Thesis-Ahana%20Basistha.pdf">
+            Essays on Corruption: The Role of Information, Beliefs and Incentives</a></em> (Advisor: <b><a href="https://www.isid.ac.in/~fafridi">Farzana Afridi</a></b>)<br>
+        First placement: Post-doc, Lausanne Centre for Health Economics, Behaviour and Policy at the University of Lausanne<br><br>`
+        },
+        {
             name: `Sujaya Sircar `,
             year: `2023`,
             description: `<em><a href="http://dspace.isical.ac.in:8080/jspui/bitstream/10263/7366/1/Thesis_Sujaya_Sircar_30-5-23.pdf">

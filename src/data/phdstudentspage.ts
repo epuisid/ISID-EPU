@@ -38,13 +38,6 @@ export const PhDStudentsData: PhdStudentsSpec = {
             name: `Ojasvita Bahl `
         },
         {
-            image: `assets/people/ab.jpg`,
-            description: `Area: political economy, development economics <br>
-Advisor: Farzana Afridi
-            Web: <a href="https://sites.google.com/view/ahanaecon/home">Click</a>`,
-            name: `Ahana Basistha (Thesis defended)`
-        },
-        {
             image: `assets/people/bb.jpg`,
             description: `Area: behavioral economics, decision theory, mechanism design <br>
             Advisor: Debasis Mishra`,
