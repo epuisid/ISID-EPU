@@ -77,6 +77,9 @@ input{
 .fs-medium{
     font-size: 1rem;
 }
+.fs-small{
+    font-size: 0.8rem;
+}
 .fs-larger{
     font-size: 1.5rem;
 }
