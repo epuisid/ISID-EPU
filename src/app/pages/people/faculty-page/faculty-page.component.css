@@ -1,13 +1,22 @@
 
 .grid{
     display: grid;
-    align-items: center;
+    /* align-items: center; */
 }
-@media (min-width:1100px){
+@media (min-width:700px){
     .grid{
         grid-template-columns: 45% 45%;
     }
 }
+@media (min-width:1200px){
+    .grid{
+        grid-template-columns: 33% 33% 33%;
+    }
+}
 app-personbox{
+    margin: 10px;
+}
+
+app-studentbox{
     margin: 10px;
 }

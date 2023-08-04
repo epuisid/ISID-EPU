@@ -2,12 +2,10 @@
     <p class="title">{{data.title}}</p>
     <p class="subtitle">{{data.subtitleForProfs}}</p>
     <div class="grid">
-        <app-personbox class="desktop" *ngFor="let prof of data.professors" [person]="prof" ></app-personbox>
-        <app-studentbox class="mobile" *ngFor="let prof of data.professors" [person]="prof"></app-studentbox>
+        <app-studentbox *ngFor="let prof of data.professors" [person]="prof"></app-studentbox>
     </div>
     <p class="subtitle">{{data.subtitleForStaff}}</p>
     <div class="grid">
-        <app-personbox class="desktop" *ngFor="let staffmember of data.staff" [person]="staffmember"></app-personbox>
-        <app-studentbox class="mobile" *ngFor="let staffmember of data.staff" [person]="staffmember"></app-studentbox>
+        <app-studentbox *ngFor="let staffmember of data.staff" [person]="staffmember"></app-studentbox>
     </div>
 </div>

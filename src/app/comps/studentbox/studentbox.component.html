@@ -6,11 +6,13 @@
         <img src="{{person.image}}" class="student-img">
     </a>
     <img *ngIf="(!person.imageLink)&&(!person.personPageKey)" src="{{person.image}}" class="student-img">
-    <div class="student-title fs-larger">
-        <a *ngIf="person.personPageKey" class="personLink" [routerLink]="'/people/individual/'+person.personPageKey">
-            {{person.name}}
-        </a>
-        <i *ngIf="person.personPageKey" style="color: white;" class="fa fa-external-link-square"></i>
+    <div class="student-title fs-large">
+        <div *ngIf="person.personPageKey" class="row center-align linkparts center-justify personPageLink">
+            <a  class="personLink" [routerLink]="'/people/individual/'+person.personPageKey">
+                {{person.name}}
+            </a>
+            <i *ngIf="person.personPageKey" class="fa fa-external-link-square linkicon"></i>
+        </div>
         <div *ngIf="!person.personPageKey">
             {{person.name}}
         </div>
