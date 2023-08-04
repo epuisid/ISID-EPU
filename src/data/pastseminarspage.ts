@@ -24,6 +24,13 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `<b>Doubt: Insights from a cross-cultural experiment</b> `,
+            description:`
+            Speaker: <b>Subrato Banerjee, IIT Bombay</b><br>
+            Date: <b>21 July 2023</b><br>
+            Venue: <b> Seminar Room 2 </b><br>`
+        },
+        {
             title: `<b>Locked-in Dirty Fuels: An ethnographic study on cooking fuel transition in Nusa Tenggara Timur, Indonesia</b> `,
             description: `
             Speaker: <b>Komali Yenneti, University of Wolverhampton</b><br>

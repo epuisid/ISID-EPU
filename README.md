@@ -16,6 +16,9 @@ the URL where the site is to be deployed.
 2. Once this command succeeds, copy the files and folders from the folder called `deploy` to the folder called
 `public_html` in the server.
 3. A modification to the server to redirect any URLs not found to the 404.html page for our site specifically is necessary.
+4. Use `rm *.js *.css`
+5. Use `mput deploy/*`
+6. Use `put -r deploy/assets`
 
 # Updates
 ## To Existing pages
