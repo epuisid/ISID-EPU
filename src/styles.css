@@ -58,6 +58,12 @@ input{
     display: flex;
     flex-direction: row;
 }
+.center-align{
+    align-items: center;
+}
+.center-justify{
+    justify-content: center;
+}
 .rrow{
     display: flex;
     flex-direction: row-reverse;
@@ -71,6 +77,9 @@ input{
 .fs-medium{
     font-size: 1rem;
 }
+.fs-small{
+    font-size: 0.8rem;
+}
 .fs-larger{
     font-size: 1.5rem;
 }
@@ -78,8 +87,8 @@ input{
     font-size: 2rem;
 }
 .student-img{
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
 }
 .person-img{
     width: 200px;

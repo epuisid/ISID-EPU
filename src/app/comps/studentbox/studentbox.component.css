@@ -4,16 +4,23 @@
     align-items: center;
     flex-direction: column;
     border: 3px solid var(--primary);
+    height: 100%;
 }
-.student-title{
+.personPageLink{
     padding: 5px;
-    color: white;
+    color: var(--accent);
     text-align: center;
-    background-color: var(--primary);
     z-index: 1;
     max-width: 90%;
-}
+    justify-content: space-around;
 
+}
+.personPageLink>a{
+    color: inherit;
+}
+div.linkparts>*{
+    margin: 5px;
+}
 img{
     padding: 3px;
     float: right;
@@ -27,10 +34,13 @@ img{
     border-top: 3px solid var(--primary);
 }
 
-a.personLink{
-    color: white;
+a.personLink{ 
+    display: block;
+    width: min-content;
+    max-width: 225px;
 }
-.student-title:hover{
+.personPageLink:hover{
     text-decoration: underline;
     cursor: pointer;
+    color: var(--light);
 }
