@@ -10,8 +10,8 @@ export const WorkshopsPageData:textPageSpec = {
             list:[
                 `<a href="https://delhiecontheory.weebly.com/schedule.html">
                 Delhi Economic Theory Workshop</a>.<br><br>`,
-                /*`<a href="https://sites.google.com/site/delhimacrowg/home">Delhi Macreconomics Working Group</a> organizes
-                an annual workshop (meeting). The 2019 meeting website is <a href="https://sites.google.com/site/delhimacrowg/upcoming-meeting">here</a>.<br><br>`,*/
+                `<a href="https://sites.google.com/view/delhimacrogroup/home">Delhi Macreconomics Working Group</a> organizes
+                an annual workshop (meeting). <br><br>`,
                 `<a href="https://www.isid.ac.in/~cecfee/">CECFEE</a> organizes annual meetings and workshops. Check details <a href="https://www.isid.ac.in/~cecfee/index.php/events/">here.`
             ],
             image:`assets/campus/Seminar.jpg`

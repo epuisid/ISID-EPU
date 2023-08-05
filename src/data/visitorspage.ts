@@ -90,6 +90,18 @@ export const VisitorsPageData:visitorsPageSpec = {
                     ]
                 },
                 {
+                    name:`Anand Murugesan`,
+                    paragraphs:[
+                        {
+                            text:`
+                            Visiting from: Central European University<br>
+                            Dates: 27 Aug - 02 Sept, 2023 <br>
+                            PhD, University of Maryland<br>
+                            Area: development economics, public economics, experimental economics, political behavior`
+                        }
+                    ]
+                },
+                {
                     name:`Mohammad Arshad`,
                     paragraphs:[
                         {
