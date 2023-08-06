@@ -6,7 +6,7 @@
         <img src="{{person.image}}" class="student-img">
     </a>
     <img *ngIf="(!person.imageLink)&&(!person.personPageKey)" src="{{person.image}}" class="student-img">
-    <div class="student-title fs-large">
+    <div class="student-title fs-medium">
         <div *ngIf="person.personPageKey" class="row center-align linkparts center-justify personPageLink">
             <a  class="personLink" [routerLink]="'/people/individual/'+person.personPageKey">
                 {{person.name}}
