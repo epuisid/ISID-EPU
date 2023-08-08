@@ -94,6 +94,14 @@ input{
     width: 200px;
     height: 200px;
 }
+hr.thick2{
+    border: 0;
+    clear:both;
+    display:block;
+    width: 100%;               
+    background-color:var(--primary);
+    height: 5px;
+}
 hr.thick{
     border: 0;
     clear:both;
