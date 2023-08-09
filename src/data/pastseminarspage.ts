@@ -19,16 +19,31 @@ export const PastSeminarsData: pastSeminarsSpec = {
             text: `Please register for these seminar in order to receive invitations, by filling out the form <a href="https://forms.gle/prEBGTYj5Ctdzd2i9">here</a>.<br>
             For questions, please contact our seminar coordinator <strong> E. Somanathan</strong>
             at <em>som [at] isid.ac.in</em>. <br>
-            Some of our seminars are recorded. The links are provided below. You can also check our youtube channel:`
+            Some of our seminars are recorded. The links are provided below. You can also check our youtube channel:
+            <a href="https://www.youtube.com/@isiseminar8295">ISI Delhi Economics Seminar Channel</a>`
         }
     ],
     pastSeminars: [
         {
-            title: `<b>Doubt: Insights from a cross-cultural experiment</b> `,
+            title: `Repeated Trading: Transparency and Market Structure`,
+            description: `
+            Speaker: Santanu Roy, Southern Methodist University<br>
+            Date: 07 August 2023 <br>
+            Venue:  Seminar Room 2 <br>`,
+        },
+        {
+            title: `<b>Follow the Crowd: But Who Follows, Who Counteracts, and Which Crowd?</b>`,
+            description: `
+            Speaker: Moses Shayo, Hebrew University of Jerusalem<br>
+            Date: 04 August 2023 <br>
+            Venue: Seminar Room 2 <br>`
+        },
+        {
+            title: `Doubt: Insights from a cross-cultural experiment `,
             description:`
-            Speaker: <b>Subrato Banerjee, IIT Bombay</b><br>
-            Date: <b>21 July 2023</b><br>
-            Venue: <b> Seminar Room 2 </b><br>`
+            Speaker: Subrato Banerjee, IIT Bombay<br>
+            Date: 21 July 2023<br>
+            Venue: Seminar Room 2<br>`
         },
         {
             title: `<b>Locked-in Dirty Fuels: An ethnographic study on cooking fuel transition in Nusa Tenggara Timur, Indonesia</b> `,

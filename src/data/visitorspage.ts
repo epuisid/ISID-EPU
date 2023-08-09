@@ -18,6 +18,30 @@ export const VisitorsPageData:visitorsPageSpec = {
             subtitle:``,
             faculty:[
                 {
+                    name:`Bhanu Gupta`,
+                    paragraphs:[
+                        {
+                            text:`
+                            Visiting from: Ashoka University<br>
+                            Dates: 12 June - 31 Aug, 2023 <br>
+                            PhD, University of Michigan<br>
+                            Area: public finance, development economics`
+                        }
+                    ]
+                },
+                {
+                    name:`Sonal Yadav`,
+                    paragraphs:[
+                        {
+                            text:`
+                            Visitng from: Umea University, Sweden<br>
+                            Dates: 25 June - 25 Aug<br>
+                            PhD, Indian Statistical Institute, Delhi<br>
+                            Area: matching theory, mechanism design`
+                        }
+                    ]
+                },
+                {
                     name:`Neha Bailwal`,
                     paragraphs:[
                         {
@@ -53,39 +77,26 @@ export const VisitorsPageData:visitorsPageSpec = {
                 },
 
                 {
-                    name:`Sanket Patil`,
+                    name:`Siddharth Chatterjee`,
                     paragraphs:[
                         {
                             text:`
-                            Visiting from: Indian Institute of Management, Bangalore<br>
-                            Dates: 16 Nov - 14 Dec, 2023<br>
-                            PhD, Northwestern University<br>
-                            Area: economic theory, behavioral economics`
+                            Dates: 03 Aug - 30 Sept, 2023 <br>
+                            PhD, Indian Statistical Institute<br>
+                            Area: decision theory, microeconomic theory`
                         }
                     ]
                 },
 
                 {
-                    name:`Sonal Yadav`,
+                    name:`Ritesh Jain`,
                     paragraphs:[
                         {
                             text:`
-                            Visitng from: Umea University, Sweden<br>
-                            Dates: 25 June - 25 Aug<br>
-                            PhD, Indian Statistical Institute, Delhi<br>
-                            Area: matching theory, mechanism design`
-                        }
-                    ]
-                },
-                {
-                    name:`Bhanu Gupta`,
-                    paragraphs:[
-                        {
-                            text:`
-                            Visiting from: Ashoka University<br>
-                            Dates: 12 June - 31 Aug, 2023 <br>
-                            PhD, University of Michigan<br>
-                            Area: public finance, development economics`
+                            Visiting from: University of Liverpool<br>
+                            Dates: 14 Aug - 18 Aug, 2023 <br>
+                            PhD, Ohio State University<br>
+                            Area: implementation, mechanism design, experiments`
                         }
                     ]
                 },
@@ -101,6 +112,7 @@ export const VisitorsPageData:visitorsPageSpec = {
                         }
                     ]
                 },
+
                 {
                     name:`Mohammad Arshad`,
                     paragraphs:[
@@ -110,6 +122,34 @@ export const VisitorsPageData:visitorsPageSpec = {
                             Dates: 24 Sep - 30 Sep, 2023<br>
                             PhD, University of California, Riverside<br>
                             Area: Bayesian Econometrics, Econometrics`
+                        }
+                    ]
+                },
+                
+                {
+                    name:`Shurojit Chatterji`,
+                    paragraphs:[
+                        {
+                            text:`
+                            Visiting from: University of Liverpool<br>
+                            Dates: 28 Sep - 05 Oct, 2023 <br>
+                            PhD, Stony Brook University<br>
+                            Area: mechanism design, voting, economic dynamics`
+                        }
+                    ]
+                },
+                
+                
+                
+                {
+                    name:`Sanket Patil`,
+                    paragraphs:[
+                        {
+                            text:`
+                            Visiting from: Indian Institute of Management, Bangalore<br>
+                            Dates: 16 Nov - 14 Dec, 2023<br>
+                            PhD, Northwestern University<br>
+                            Area: economic theory, behavioral economics`
                         }
                     ]
                 }

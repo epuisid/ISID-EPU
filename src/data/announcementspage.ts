@@ -24,8 +24,7 @@ export const AnnouncementsData: announcementspecs[] = [
             {
                 title: `ACEGD Conference`,
                 paragraphs: [
-                    { text: `The 2023 ACEGD conference will be in December: watch this space
-                    for announcement. The 2022 ACEGD conference website is <a href="https://www.isid.ac.in/~epu/acegd2022/">here</a>.` }
+                    { text: `Submit your best papers on growth and development to ACEGD: 2023 ACEGD conference website is <a href="https://www.isid.ac.in/~acegd/acegd2023/">here</a>.` }
                 ]
             }
         ]
