@@ -34,7 +34,34 @@ export const SeminarPageData:seminarPageSpec = {
     ],
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
-        
+        {
+            title: `tba`,
+            speaker: `Namrata Kala, MIT`,
+            datetime: ` 25 August 2023, 11:30 AM `,
+            venue: ` Seminar Room 2 `,
+            description:``
+        },
+        {
+            title: `The (soft) power to tax: compliance and tax morale as imperial legacy`,
+            speaker: `Anand Murugesan, Central European University`,
+            datetime: ` 01 September 2023, 11:30 AM `,
+            venue: ` Seminar Room 2 `,
+            description:`Abstract: We hypothesize and empirically show that welfare-improving 
+            historical reforms have a lasting impact on tax morale and compliance. We argue that 
+            such reforms can generate a path dependence where tax morale, public good quality, 
+            and the state's fiscal capacity co-evolve over the long run. We substantiate our 
+            argument by examining the effect of historical Habsburg imperial rule on the current 
+            propensity to avoid taxation in northern Italian provinces. Our study employs data 
+            from an original, incentivized survey on revealed preferences for tax avoidance and 
+            an Italian administrative data set on property tax avoidance behavior. We use spatial 
+            regression discontinuity design to demonstrate that tax avoidance is lower among 
+            respondents from the Habsburg side of the long-gone imperial border in contemporary 
+            northern Italy. Investigating the mechanisms for tax compliance and its persistence, 
+            we provide evidence that beliefs about tax enforcement are no different, but proxies 
+            for tax morale significantly differ within a 100 km band from the erstwhile imperial 
+            borders. Our study demonstrates that historically fostered tax morale has a long-run 
+            impact on tax compliance, fiscal capacity, and the quality of public goods. `
+        },
         {
             title: `tba`,
             speaker: `Shurojit Chatterji, Singapore Management University`,
