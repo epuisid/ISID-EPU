@@ -41,13 +41,7 @@ export const SeminarPageData:seminarPageSpec = {
             venue: ` Seminar Room 2 `,
             description:``
         },
-        {
-            title: `tba`,
-            speaker: `Mohammed Arshad Rahman, IIT Kanpur`,
-            datetime: ` 26 August 2023, 4 PM `,
-            venue: ` Seminar Room 2 `,
-            description:``
-        },
+        
         {
             title: `The (soft) power to tax: compliance and tax morale as imperial legacy`,
             speaker: `Anand Murugesan, Central European University`,
@@ -71,8 +65,22 @@ export const SeminarPageData:seminarPageSpec = {
         },
         {
             title: `tba`,
+            speaker: `Mohammed Arshad Rahman, IIT Kanpur`,
+            datetime: ` 26 Sept 2023, 4 PM `,
+            venue: ` Seminar Room 2 `,
+            description:``
+        },
+        {
+            title: `tba`,
             speaker: `Shurojit Chatterji, Singapore Management University`,
             datetime: ` 29 September 2023, 11:30 AM `,
+            venue: ` Seminar Room 2 `,
+            description:``
+        },
+        {
+            title: `tba`,
+            speaker: `Alessandro Pavan, Northwestern University`,
+            datetime: ` 13 October 2023, 11:30 AM `,
             venue: ` Seminar Room 2 `,
             description:``
         },
