@@ -47,7 +47,7 @@ export const PhDStudentsData: PhdStudentsSpec = {
             image: `assets/people/hd.jpg`,
             description: `Area: decision theory, mechanism design<br>
             Advisor: Debasis Mishra`,
-            name: `Harshika Dalakoti `
+            name: `Harshika Dalakoti (Thesis submitted)`
         },
         {
             image: `assets/people/priyanka.jpg`,
