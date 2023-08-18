@@ -136,7 +136,7 @@ export const VisitorsPageData:visitorsPageSpec = {
                             Area: environmental economics, agricultural economics`
                         }
                     ]
-                }
+                },
 
                 {
                     name:`Mohammad Arshad`,
@@ -188,7 +188,7 @@ export const VisitorsPageData:visitorsPageSpec = {
                             Area: agricultural economics, development economics`
                         }
                     ]
-                }
+                },
                 
                 {
                     name:`Sanket Patil`,
