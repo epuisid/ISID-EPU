@@ -79,6 +79,13 @@ export const SeminarPageData:seminarPageSpec = {
         },
         {
             title: `tba`,
+            speaker: `Prakash Singh, Plaksha University`,
+            datetime: ` 06 October 2023, 11:30 AM `,
+            venue: ` Seminar Room 2 `,
+            description:``
+        },
+        {
+            title: `tba`,
             speaker: `Alessandro Pavan, Northwestern University`,
             datetime: ` 13 October 2023, 11:30 AM `,
             venue: ` Seminar Room 2 `,
