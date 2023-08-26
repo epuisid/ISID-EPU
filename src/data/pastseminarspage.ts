@@ -25,6 +25,13 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Firm presence, environmental quality, and economic activity`,
+            description: `
+            Speaker: Namrata Kala, MIT<br>
+            Date: 25 August 2023 <br>
+            Venue:  Seminar Room 2 <br>`,
+        },
+        {
             title: `Repeated Trading: Transparency and Market Structure`,
             description: `
             Speaker: Santanu Roy, Southern Methodist University<br>

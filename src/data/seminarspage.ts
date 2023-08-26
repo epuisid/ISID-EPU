@@ -35,14 +35,6 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
         {
-            title: `Firm presence, environmental quality, and economic activity`,
-            speaker: `Namrata Kala, MIT`,
-            datetime: ` 25 August 2023, 11:30 AM `,
-            venue: ` Seminar Room 2 `,
-            description:`Abstract: Firm location decisions are one of the most important decisions managers make, optimizing factors such as proximity to customers, suppliers, and useful information. The inherent endogeneity of firm location decisions renders estimating the impact of firm presence difficult. In this paper, we use an environmental relocation policy that randomly moved over 20,000 small firms operating within city limits in New Delhi to industrial areas outside the city over several years. We find that a reduction in firm presence has a small impact on measured air quality, and is costly for firms: relocated firms have a high rate of exit, which increases in the distance relocated. There are no precise long-term effects on neighborhood-level population density or composition. Next, using random placement in the industrial area, we recover reduced-form elasticities of agglomeration of having similar firms closer to a given firm, using firm survival as the outcome. These elasticities allow us to generate counterfactual allotments of plots to firms, which can reduce aggregate firm exit caused by the policy, thereby lowering costs to firms of this commonly used environmental policy tool.`
-        },
-        
-        {
             title: `The (soft) power to tax: compliance and tax morale as imperial legacy`,
             speaker: `Anand Murugesan, Central European University`,
             datetime: ` 01 September 2023, 11:30 AM `,
