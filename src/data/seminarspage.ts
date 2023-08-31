@@ -38,7 +38,7 @@ export const SeminarPageData:seminarPageSpec = {
             title: `The (soft) power to tax: compliance and tax morale as imperial legacy`,
             speaker: `Anand Murugesan, Central European University`,
             datetime: ` 01 September 2023, 11:30 AM `,
-            venue: ` Seminar Room 2 `,
+            venue: ` Classroom 14 `,
             description:`Abstract: We hypothesize and empirically show that welfare-improving 
             historical reforms have a lasting impact on tax morale and compliance. We argue that 
             such reforms can generate a path dependence where tax morale, public good quality, 
