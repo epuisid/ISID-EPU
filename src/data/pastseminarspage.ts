@@ -25,6 +25,13 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `The (soft) power to tax: compliance and tax morale as imperial legacy`,
+            description: `
+            Speaker: Anand Murugesan, Central European University<br>
+            Date: 01 September 2023 <br>
+            Venue:  Classroom 14 <br>`,
+        },
+        {
             title: `Firm presence, environmental quality, and economic activity`,
             description: `
             Speaker: Namrata Kala, MIT<br>
