@@ -35,18 +35,11 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
         {
-            title: `Flexible Bayesian Quantile Analysis of Residential Rental Rates`,
-            speaker: `Mohammed Arshad Rahman, IIT Kanpur`,
-            datetime: ` 26 Sept 2023, 4 PM `,
-            venue: ` Seminar Room 2 `,
-            description:`This article develops a random effects quantile regression model for panel data that allows for increased distributional flexibility, multivariate heterogeneity, and time-invariant covariates in situations where mean regression may be unsuitable. Our approach is Bayesian and builds upon the generalized asymmetric Laplace distribution to decouple the modeling of skewness from the quantile parameter. We derive an efficient simulation-based estimation algorithm, demonstrate its properties and performance in targeted simulation studies, and employ it in the computation of marginal likelihoods to enable formal Bayesian model comparisons. The methodology is applied in a study of U.S. residential rental rates following the Global Financial Crisis. Our empirical results provide interesting insights on the interaction between rents and economic, demographic and policy variables, weigh in on key modeling features, and overwhelmingly support the additional flexibility at nearly all quantiles and across several sub-samples. The practical differences that arise as a result of allowing for flexible modeling can be nontrivial, especially for quantiles away from the median.`
-        },
-        {
-            title: `tba`,
+            title: `On efficiency with heterogenous forecasts`,
             speaker: `Shurojit  Chatterji, Singapore Management University`,
             datetime: ` 29 September 2023, 11:30 AM `,
             venue: ` Seminar Room 2 `,
-            description:``
+            description:`Do price forecasts of rational economic agents need to coincide in intertemporal perfectly competitive complete markets in order for markets to allocate resources efficiently? Recent work in a two-period model with a nominal bond has shown that there is a one dimensional set of efficient allocations for generic endowments that can be sustained by heterogenous forecasts. Moreover, these efficient allocations can be supported by forecasts that disagree up to one degree of freedom. Thus, strong as efficiency and perfect competition may appear, they do not imply perfect foresight, but they do add explanatory power to temporary equilibrium, since they select a small subset out of the Pareto efficient allocations, which generally have higher dimension. We next study a muti-period model with a nominal bond that matures in one period and identify the set of efficient allocations that can be sustained as Walrasian equilibria with heterogenous forecasts. We then add a long maturity bond, which under perfect foresight would be a redundant asset, and show that it fundamentally expands the set of efficient allocations that can be sustained as Walrasian equilibria. Indeed all wealth transfers compatible with efficiency can arise endogenously. The key feature driving this conclusion are forecasting errors, which lead to ex post arbitrage opportunities that induce these income transfers.`
         },
         {
             title: `tba`,
