@@ -25,6 +25,13 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `On efficiency with heterogenous forecasts`,
+            description: `
+            Speaker: Shurojit  Chatterji, Singapore Management University<br>
+            Date: 29 September 2023 <br>
+            Venue: Seminar Room 2<br>`,
+        },
+        {
             title: `The (soft) power to tax: compliance and tax morale as imperial legacy`,
             description: `
             Speaker: Anand Murugesan, Central European University<br>
