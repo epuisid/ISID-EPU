@@ -43,6 +43,13 @@ export const SeminarPageData:seminarPageSpec = {
             venue: ` Seminar Room 2 `,
             description:``
         },
+        {
+            title: `Opponent's foresight and optimal choices`,
+            speaker: `Jeevant Rampal, Indian Institute of Management, Ahmedabad`,
+            datetime: ` 20 October 2023, 11:30 AM `,
+            venue: ` Seminar Room 2 `,
+            description:`Abstract: Using two experiments, this paper demonstrates that expert players of sequential-move games best respond to their opponents' backward-induction ability. In particular, I show that these experts take advantage of inexperienced opponents' weakness in backward induction. I find this when the expert is explicitly told that her opponent is inexperienced, but also when she infers the opponent's weakness from the opponent's preceding performance. I demonstrate that other-regarding preferences have no role in these findings. I find that a novel model of limited foresight and uncertainty about the opponent’s foresight fits the data better than Level-k or Quantal Response models.`
+        },
     ],
     altText:`There are no upcoming seminars. Please check again later.`
 }
