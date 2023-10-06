@@ -41,7 +41,7 @@ export const SeminarPageData:seminarPageSpec = {
             speaker: `Alessandro Pavan, Northwestern University`,
             datetime: ` 13 October 2023, 11:30 AM `,
             venue: ` Seminar Room 2 `,
-            description:`In many games of interest (e.g., trade, entry, leadership, warfare, and partnership environments), one player (the leader) covertly acquires information about the state of Nature before choosing whether to engage with another player (the follower). The friendliness of the follower’s reaction depends on his beliefs about what motivated the leader’s choice to engage. We provide necessary and sufficient conditions for the leader’s value of acquiring more information to increase with the follower’s expectations. We then derive the economic implications of this characterization, focusing on three closely related topics (expectation traps, disclosure, and cognitive styles), and drawing policy implications.`
+            description:`Abstract: In many games of interest (e.g., trade, entry, leadership, warfare, and partnership environments), one player (the leader) covertly acquires information about the state of Nature before choosing whether to engage with another player (the follower). The friendliness of the follower’s reaction depends on his beliefs about what motivated the leader’s choice to engage. We provide necessary and sufficient conditions for the leader’s value of acquiring more information to increase with the follower’s expectations. We then derive the economic implications of this characterization, focusing on three closely related topics (expectation traps, disclosure, and cognitive styles), and drawing policy implications.`
         },
         {
             title: `Opponent's foresight and optimal choices`,
