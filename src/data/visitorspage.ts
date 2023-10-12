@@ -139,14 +139,27 @@ export const VisitorsPageData:visitorsPageSpec = {
                 },
 
                 {
-                    name:`Mohammad Arshad`,
+                    name:`Subrato Banerjee`,
                     paragraphs:[
                         {
                             text:`
-                            Visiting from: Indian Institute of Technology, Kanpur<br>
-                            Dates: 24 Sep - 30 Sep, 2023<br>
-                            PhD, University of California, Riverside<br>
-                            Area: Bayesian Econometrics, Econometrics`
+                            Visiting from: Indian Institute of Technology, Bombay<br>
+                            Dates: 16 Sep - 25 Sep, 2023<br>
+                            PhD, Indian Statistical Institute<br>
+                            Area: behavioral economics, experimental economics`
+                        }
+                    ]
+                },
+
+                {
+                    name:`Priyanka Kothari`,
+                    paragraphs:[
+                        {
+                            text:`
+                            Visiting from: Tata Institute of Social Sciences, Mumbai<br>
+                            Dates: 16 Sep - 25 Sep, 2023<br>
+                            PhD, Indian Statistical Institute<br>
+                            Area: industrial organization`
                         }
                     ]
                 },
@@ -169,10 +182,36 @@ export const VisitorsPageData:visitorsPageSpec = {
                     paragraphs:[
                         {
                             text:`
-                            Visiting from: University of Liverpool<br>
+                            Visiting from: Singapore Management University<br>
                             Dates: 28 Sep - 05 Oct, 2023 <br>
                             PhD, Stony Brook University<br>
                             Area: mechanism design, voting, economic dynamics`
+                        }
+                    ]
+                },
+
+                {
+                    name:`Prakarsh Singh`,
+                    paragraphs:[
+                        {
+                            text:`
+                            Visiting from: Plaksha University<br>
+                            Dates: 04 Oct - 11 Oct, 2023<br>
+                            PhD, London School of Economics<br>
+                            Area: development economics`
+                        }
+                    ]
+                },
+
+                {
+                    name:`Mohammad Arshad`,
+                    paragraphs:[
+                        {
+                            text:`
+                            Visiting from: Indian Institute of Technology, Kanpur<br>
+                            Dates: 29 Oct - 04 Nov, 2023<br>
+                            PhD, University of California, Riverside<br>
+                            Area: Bayesian Econometrics, Econometrics`
                         }
                     ]
                 },
@@ -199,6 +238,44 @@ export const VisitorsPageData:visitorsPageSpec = {
                             Dates: 16 Nov - 14 Dec, 2023<br>
                             PhD, Northwestern University<br>
                             Area: economic theory, behavioral economics`
+                        }
+                    ]
+                },
+                {
+                    name:`Souvik Banerjee`,
+                    paragraphs:[
+                        {
+                            text:`
+                            Visiting from: Indian Institute of Technology, Bombay<br>
+                            Dates: 28 Nov - 27 Dec, 2023<br>
+                            PhD, State University of New York, Albany<br>
+                            Area: health economics, econometrics`
+                        }
+                    ]
+                },
+
+                {
+                    name:`Rahul Singh`,
+                    paragraphs:[
+                        {
+                            text:`
+                            Visiting from: Ahmedabad University<br>
+                            Dates: 09 Jan - 08 Feb, 2024<br>
+                            PhD, Indian Institute of Management, Bangalore<br>
+                            Area: international trade, empirical industrial organization`
+                        }
+                    ]
+                },
+
+                {
+                    name:`Moumita Roy`,
+                    paragraphs:[
+                        {
+                            text:`
+                            Visiting from: Ahmedabad University<br>
+                            Dates: 15 Jan - 14 Feb, 2024<br>
+                            PhD, George Mason University<br>
+                            Area: experimental economics, behavioral economics, labor economics`
                         }
                     ]
                 }
