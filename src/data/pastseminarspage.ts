@@ -25,6 +25,18 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Opponent's foresight and optimal choices`,
+            description: `Speaker: Jeevant Rampal, Indian Institute of Management, Ahmedabad <br>
+            Date: 20 October 2023, 11:30 AM <br>
+            Venue: Seminar Room 2 <br>`
+        },
+        {
+            title: `Knowing your lemon before you dump it`,
+            description:`Speaker: Alessandro Pavan, Northwestern University <br>
+            Date: 13 October 2023, 11:30 AM <br>
+            Venue: Classroom 13 <br>`
+        },
+        {
             title: `On efficiency with heterogenous forecasts`,
             description: `
             Speaker: Shurojit  Chatterji, Singapore Management University<br>
