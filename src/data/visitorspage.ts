@@ -204,13 +204,13 @@ export const VisitorsPageData:visitorsPageSpec = {
                 },
 
                 {
-                    name:`Mohammad Arshad`,
+                    name:`Mohammad Arshad Rahman`,
                     paragraphs:[
                         {
                             text:`
                             Visiting from: Indian Institute of Technology, Kanpur<br>
                             Dates: 29 Oct - 04 Nov, 2023<br>
-                            PhD, University of California, Riverside<br>
+                            PhD, University of California, Irvine<br>
                             Area: Bayesian Econometrics, Econometrics`
                         }
                     ]
