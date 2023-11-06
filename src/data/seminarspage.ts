@@ -36,13 +36,6 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
         {
-            title: `Flexible Bayesian Quantile Analysis of Residential Rental Rates`,
-            speaker: `Arshad Rahman, Indian Institute of Technology, Kanpur`,
-            datetime: ` 03 November 2023, 11:30 AM `,
-            venue: ` Seminar Room 2 `,
-            description:`Abstract: This article develops a random effects quantile regression model for panel data that allows for increased distributional flexibility, multivariate heterogeneity, and time-invariant covariates in situations where mean regression may be unsuitable. Our approach is Bayesian and builds upon the generalized asymmetric Laplace distribution to decouple the modeling of skewness from the quantile parameter. We derive an efficient simulation-based estimation algorithm, demonstrate its properties and performance in targeted simulation studies, and employ it in the computation of marginal likelihoods to enable formal Bayesian model comparisons. The methodology is applied in a study of U.S. residential rental rates following the Global Financial Crisis. Our empirical results provide interesting insights on the interaction between rents and economic, demographic and policy variables, weigh in on key modeling features, and overwhelmingly support the additional flexibility at nearly all quantiles and across several sub-samples. The practical differences that arise as a result of allowing for flexible modeling can be nontrivial, especially for quantiles away from the median.`
-        },
-        {
             title: `Deadweight Losses or Gains from In-kind Transfers:  Experimental Evidence`,
             speaker: `Gaurav Datt, Monash University`,
             datetime: `17 November 2023, 11:30 AM `,

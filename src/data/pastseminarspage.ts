@@ -25,6 +25,12 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Flexible Bayesian Quantile Analysis of Residential Rental Rates`,
+            description: `Speaker: Arshad Rahman, Indian Institute of Technology, Kanpur <br>
+            Date: 03 November 2023, 11:30 AM <br>
+           Venue: Seminar Room <br>`
+        },
+        {
             title: `Opponent's foresight and optimal choices`,
             description: `Speaker: Jeevant Rampal, Indian Institute of Management, Ahmedabad <br>
             Date: 20 October 2023, 11:30 AM <br>
