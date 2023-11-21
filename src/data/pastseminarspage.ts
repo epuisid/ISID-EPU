@@ -25,6 +25,13 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Deadweight Losses or Gains from In-kind Transfers:  Experimental Evidence`,
+            description: `Speaker: Gaurav Datt, Monash University <br>
+            Date: 17 November 2023, 11:30 AM <br>
+           Venue: Seminar Room <br>`
+        },
+
+        {
             title: `Flexible Bayesian Quantile Analysis of Residential Rental Rates`,
             description: `Speaker: Arshad Rahman, Indian Institute of Technology, Kanpur <br>
             Date: 03 November 2023, 11:30 AM <br>

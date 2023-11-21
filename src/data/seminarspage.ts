@@ -36,13 +36,6 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
         {
-            title: `Deadweight Losses or Gains from In-kind Transfers:  Experimental Evidence`,
-            speaker: `Gaurav Datt, Monash University`,
-            datetime: `17 November 2023, 11:30 AM `,
-            venue: ` Seminar Room 2 `,
-            description:`Abstract: Are in-kind transfers associated with deadweight losses?  To answer this, we conducted an incentivized field experiment in India, which offered low-income households the choice between a free quantity of rice and varying amounts of cash to elicit their willingness to pay for rice. Contrary to expectation, we find evidence of deadweight gain on average, though with a striking contrast between a deadweight loss among women from female-headed households and a deadweight gain among respondents from male-headed households.  Our results highlight the role of gender differences in bargaining power in shaping the choice between cash or rice.`
-        },
-        {
             title: `Persistence in physicians’ locations: Long-run evidence from decentralised loan repayment programs`,
             speaker: `Anomita Ghosh, University of Illinois, Urbana-Champaign`,
             datetime: `24 November 2023, 11:30 AM`,
