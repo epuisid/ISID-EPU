@@ -36,11 +36,23 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
         {
-            title: `Persistence in physicians’ locations: Long-run evidence from decentralised loan repayment programs`,
-            speaker: `Anomita Ghosh, University of Illinois, Urbana-Champaign`,
-            datetime: `24 November 2023, 11:30 AM`,
+            title: `Putting all Eggs in One Basket: Insights from a Correlation 
+            Inequality`,
+            speaker: `Siddhartha Sahi, Rutgers University,`,
+            datetime: `29 December 2023, 3:30 PM`,
             venue: ` Seminar Room 2 `,
-            description:`Abstract: Do temporary labor supply programs cause physicians to move to and stay in undesirable areas? To what extent do these programs improve the health of the vulnerable population in those areas? I investigate these questions by studying state and local loan repayment programs for new eligible physicians which were rolled out over the last four decades in hundreds of counties across US states. Leveraging a new longitudinal dataset that tracks all physicians from medical school to mid-career, and exploiting both space and time variation, I find that these policies increase the number of physicians by 5% in treated counties relative to untreated counties in the state. The inflows of physicians are driven by higher paying eligible specialties. The programs continue to influence physicians' location decisions even after they end -- effects persist for at least ten years after the minimum obligation period. Furthermore, the programs modestly spur trainees to enter eligible specialties in treated states by substituting away from ineligible specialties. Treated counties also see the elderly increase their visits to physicians while reducing those to the emergency rooms. Using patient level data from California, I demonstrate these results are not driven by selective admission of patients to treated hospitals. Overall, my findings emphasize the importance of policies that reduce financial frictions for highly skilled professionals in shaping not only their migration and labor market trajectories, but also the health outcomes of people in their communities.  A welfare analysis of these programs suggests that every dollar of government spending produces a net of around $0.6 in benefits to both recipients and non-recipients.`
+            description:`Abstract: We give examples of phenomena, drawn from diverse contexts 
+            (military attacks on an enemy’s communication networks, vote for a 
+            corporate merger, stochastic production with uncertainty in the supply 
+            of inputs) when it is beneficial to concentrate rather than to diversify 
+            risk, by “putting all eggs in one basket”. They can all be cast in a 
+            game-theoretic framework and then their analysis lends itself to a dual 
+            interpretation: as optimal strategies of a single player (the 
+            “principal”) or, equivalently, as dominant strategies in a 
+            non-cooperative game with multiple players (the “agents”). In the 
+            process, we establish an inequality which implies the well-known Harris 
+            Inequality that plays an important role in percolation theory and in the 
+            Erdos-Renyi theory of random graphs.`
         },
     ],
     altText:`There are no upcoming seminars. Please check again later.`

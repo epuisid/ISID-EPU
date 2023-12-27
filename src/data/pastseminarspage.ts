@@ -25,6 +25,13 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Persistence in physicians locations: Long-run evidence from decentralised loan repayment programs`,
+            description: `Speaker: Anomita Ghosh, University of Illinois, Urbana-Champaign <br>
+            Date: 24 November 2023, 11:30 AM <br>
+            Venue: Seminar Room 2 <br>`
+        },
+
+        {
             title: `Deadweight Losses or Gains from In-kind Transfers:  Experimental Evidence`,
             description: `Speaker: Gaurav Datt, Monash University <br>
             Date: 17 November 2023, 11:30 AM <br>
