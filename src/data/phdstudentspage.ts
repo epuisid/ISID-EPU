@@ -111,13 +111,6 @@ Advisor: E. Somanathan
             Web: <a href="https://sites.google.com/view/kumar-praveen/home">Click</a>`,
             name: `Praveen Kumar `
         },
-        {
-            image: `assets/people/krm.jpg`,
-            description: `Area: decision theory, behavioral economics <br>
-Advisor: Arunava Sen
-            Web: <a href="https://sites.google.com/view/kriti-manocha/home">Click</a>`,
-            name: `Kriti Manocha (Thesis submitted)`
-        },
         
         {
             image: `assets/people/ria.jpg`,
