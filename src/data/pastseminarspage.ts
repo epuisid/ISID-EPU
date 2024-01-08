@@ -25,6 +25,14 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Putting all Eggs in One Basket: Insights from a Correlation 
+            Inequality`,
+            description: `Speaker: Siddhartha Sahi, Rutgers University <br>
+            Date: 29 November 2023, 3:30 PM <br>
+            Venue: Seminar Room 2 <br>`
+        },
+
+        {
             title: `Persistence in physicians locations: Long-run evidence from decentralised loan repayment programs`,
             description: `Speaker: Anomita Ghosh, University of Illinois, Urbana-Champaign <br>
             Date: 24 November 2023, 11:30 AM <br>
