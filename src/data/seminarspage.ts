@@ -42,6 +42,14 @@ export const SeminarPageData:seminarPageSpec = {
             venue: ` Seminar Room 2 `,
             description:`Abstract: This paper studies the optimal timing of the tie-breaker in a 2-player game where the players have the opportunity to invest effort in improving their chances of winning and the winner is determined by a fair coin toss in case of a tie. We show that the optimal timing of the tie-breaker depends on the strength of the players. Specifically, if both players are strong enough, it may be optimal to hold the tie-breaker after the match to maximize the sum of the efforts invested by both players. However, if players are not strong enough, it is optimal to hold the tie-breaker before the match as that would lead to more overall effort. We present a simple model to demonstrate these findings and derive the equilibrium strategies and payoffs for both scenarios. Our results provide insights into the optimal timing of tie-breakers in 2-player games, with implications for sports tournaments and other competitive settings.`
         },
+
+        {
+            title: `TBA`,
+            speaker: `Inacio Bo, University of Macau`,
+            datetime: `13 February 2024, 2:30 PM`,
+            venue: ` Seminar Room 2 `,
+            description:`Abstract: TBA`
+        },
         
         {
             title: `TBA`,

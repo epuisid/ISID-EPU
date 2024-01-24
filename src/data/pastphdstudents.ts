@@ -15,7 +15,7 @@ export const PastPhdStudentsData: pastphdstudents = {
         {
             name: `Kriti Manocha `,
             year: `2023`,
-            description: `<em><a href="http://dspace.isical.ac.in:8080/jspui/bitstream/10263/7404/1/Thesis-Kriti%20Manocha.pdf">
+            description: `<em><a href="http://dspace.isical.ac.in:8080/jspui/bitstream/10263/7428/1/Thesis_Kriti%20Manocha-29-12-23.pdf">
             Essays on Choice and Matching</a></em> (Advisor: <b><a href="https://www.isid.ac.in/~asen">Arunava Sen</a></b>)<br>
         First placement: TBA<br><br>`
         },
