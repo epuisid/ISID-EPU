@@ -46,11 +46,27 @@ export const SeminarPageData:seminarPageSpec = {
         {
             title: `TBA`,
             speaker: `Inacio Bo, University of Macau`,
-            datetime: `13 February 2024, 2:30 PM`,
+            datetime: `13 February 2024, 2:30 PM (Tuesday)`,
             venue: ` Seminar Room 2 `,
             description:`Abstract: TBA`
         },
         
+        {
+            title: `TBA`,
+            speaker: `Aditya Kuvalekar, University of Essex`,
+            datetime: `16 February 2024, 11:30 AM`,
+            venue: ` Seminar Room 2 `,
+            description:`Abstract: TBA`
+        },
+
+        {
+            title: `TBA`,
+            speaker: `Srinivas Arigapudi, IIT, Kanpur`,
+            datetime: `01 March 2024, 11:30 AM`,
+            venue: ` Seminar Room 2 `,
+            description:`Abstract: TBA`
+        },
+
         {
             title: `TBA`,
             speaker: `Deepak Malghan, IIM, Bangalore`,
