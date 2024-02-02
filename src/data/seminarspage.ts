@@ -86,7 +86,7 @@ export const SeminarPageData:seminarPageSpec = {
         {
             title: `TBA`,
             speaker: `Deepak Malghan, IIM, Bangalore`,
-            datetime: `13 April 2024, 11:30 AM`,
+            datetime: `12 April 2024, 11:30 AM`,
             venue: ` Seminar Room 2 `,
             description:`Abstract: TBA`
         },
