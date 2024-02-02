@@ -77,8 +77,16 @@ export const SeminarPageData:seminarPageSpec = {
 
         {
             title: `TBA`,
+            speaker: `Vaidehi Tandel, University of Manchester`,
+            datetime: `22 March, 2024, 11:30 AM`,
+            venue: ` Seminar Room 2 `,
+            description:`Abstract: TBA`
+        },
+
+        {
+            title: `TBA`,
             speaker: `Deepak Malghan, IIM, Bangalore`,
-            datetime: `22 March 2024, 11:30 AM`,
+            datetime: `13 April 2024, 11:30 AM`,
             venue: ` Seminar Room 2 `,
             description:`Abstract: TBA`
         },
