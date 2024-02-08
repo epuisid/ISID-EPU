@@ -77,10 +77,18 @@ export const SeminarPageData:seminarPageSpec = {
 
         {
             title: `TBA`,
+            speaker: `Digvijay Singh Negi, IGIDR`,
+            datetime: `15 March 2024, 11:30 AM`,
+            venue: ` Seminar Room 2 `,
+            description:`Abstract: TBA`
+        },
+
+        {
+            title: `Adapting to Flood Risk: Evidence from a Global Panel of Cities`,
             speaker: `Vaidehi Tandel, University of Manchester`,
             datetime: `22 March, 2024, 11:30 AM`,
             venue: ` Seminar Room 2 `,
-            description:`Abstract: TBA`
+            description:`Abstract: Urban flooding poses danger to people and places. People can adapt to this risk by moving to safer areas or by investing in private self-protection. Places can offset some of the risk through urban planning and infrastructure investment. By constructing a global city data set that covers the years 2012 to 2018, we test several flood risk adaptation hypotheses. Population growth is lower in cities that suffer from more floods. Richer cities suffer fewer deaths from flood events. Over time, the death toll from floods is declining. Cities protected by dams experience faster population growth. Using lights at night to measure short run urban economic dynamics, we document that floods cause less damage to richer cities and cities with protective dams. Cities with more past experience with floods suffer less from flooding.`
         },
 
         {
