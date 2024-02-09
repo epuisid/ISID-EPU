@@ -83,20 +83,20 @@ export const SeminarPageData:seminarPageSpec = {
             description:`Abstract: Can policies that distort market incentives result in negative externalities with large and widespread social costs? I uncover a robust relationship between global rice prices and air pollution in India. I establish that this link comes about due to higher global rice prices leading to increased agricultural fire activity in states where the government is the largest buyer of rice. In terms of mechanisms, I observe higher global prices leading to specialization in rice cultivation in states with higher government interference but not necessarily suitable for rice cultivation. Market distortion in the form of a pre-announced national price floor supported by government procurement of surplus rice delinks local prices from local productivity shocks and links them with global price movements. This is striking, given that India’s agricultural price policy intends to insulate farmers from global price volatility.`
         },
 
-        {
-            title: `Are the Effects of Climate Change on Agriculture Underestimated? A Disaggregated Analysis for India`,
-            speaker: `Shreekant Gupta, Delhi School of Economics`,
-            datetime: `05 April 2024, 11:30 AM`,
-            venue: ` Seminar Room 2 `,
-            description:`Abstract: An extensive and growing body of literature on the consequences of climate change for agriculture provides a diverse array of estimated effects. This paper contends documented effects of climate change in the literature are underestimated for three reasons: the use of static specifications, the neglect or inadequate treatment of intra-year variability in key climate change variables, and the asymmetric impact of positive and negative climate shocks. We illustrate this underestimation by presenting a case study focused on the Indian agricultural sector. Through addressing these sources of underestimation our results indicate large long-run impacts of rainfall and temperature anomalies on yields for a range of food and non-food crops.`
-        },
-
+        
         {
             title: `Adapting to Flood Risk: Evidence from a Global Panel of Cities`,
             speaker: `Vaidehi Tandel, University of Manchester`,
             datetime: `22 March, 2024, 11:30 AM`,
             venue: ` Seminar Room 2 `,
             description:`Abstract: Urban flooding poses danger to people and places. People can adapt to this risk by moving to safer areas or by investing in private self-protection. Places can offset some of the risk through urban planning and infrastructure investment. By constructing a global city data set that covers the years 2012 to 2018, we test several flood risk adaptation hypotheses. Population growth is lower in cities that suffer from more floods. Richer cities suffer fewer deaths from flood events. Over time, the death toll from floods is declining. Cities protected by dams experience faster population growth. Using lights at night to measure short run urban economic dynamics, we document that floods cause less damage to richer cities and cities with protective dams. Cities with more past experience with floods suffer less from flooding.`
+        },
+        {
+            title: `Are the Effects of Climate Change on Agriculture Underestimated? A Disaggregated Analysis for India`,
+            speaker: `Shreekant Gupta, Delhi School of Economics`,
+            datetime: `05 April 2024, 11:30 AM`,
+            venue: ` Seminar Room 2 `,
+            description:`Abstract: An extensive and growing body of literature on the consequences of climate change for agriculture provides a diverse array of estimated effects. This paper contends documented effects of climate change in the literature are underestimated for three reasons: the use of static specifications, the neglect or inadequate treatment of intra-year variability in key climate change variables, and the asymmetric impact of positive and negative climate shocks. We illustrate this underestimation by presenting a case study focused on the Indian agricultural sector. Through addressing these sources of underestimation our results indicate large long-run impacts of rainfall and temperature anomalies on yields for a range of food and non-food crops.`
         },
 
         {
