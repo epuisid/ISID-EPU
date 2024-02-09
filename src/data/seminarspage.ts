@@ -44,11 +44,11 @@ export const SeminarPageData:seminarPageSpec = {
         },
 
         {
-            title: `TBA`,
+            title: `Incontestable Mechanisms`,
             speaker: `Inacio Bo, University of Macau`,
             datetime: `13 February 2024, 2:30 PM (Tuesday)`,
             venue: ` Seminar Room 2 `,
-            description:`Abstract: TBA`
+            description:`Abstract: In some allocation problems, there is a priority ordering of agents that must be respected in the matching that is produced, in that an agent cannot have revealed to prefer the assignment given to another agent with lower priority. Otherwise, the affected agent could “contest” the assignment, often legally. Mechanisms that never produce assignments that can be contested are Incontestable Mechanisms. While serial dictatorship is the unique Incontestable direct mechanism, coarser message spaces allow for a wider space of mechanisms. We provide characterizations of incontestable mechanisms for different restrictions on message spaces, evaluate incentives induced by these mechanisms and apply these concepts to a real-life application: the Indian Civil Service allocation.`
         },
         
         {
@@ -100,11 +100,11 @@ export const SeminarPageData:seminarPageSpec = {
         },
 
         {
-            title: `TBA`,
+            title: `Racialized urban spaces and environmental injustice using high resolution paired data`,
             speaker: `Deepak Malghan, IIM, Bangalore`,
             datetime: `12 April 2024, 11:30 AM`,
             venue: ` Seminar Room 2 `,
-            description:`Abstract: TBA`
+            description:`Abstract: A large body of research has documented urban environmental inequalities around the world, but the nature of their association with a racialized social order remains open. Pairing spatially explicit demographic census micro-data from one of the world’s leading urbanization hotspots (Bengaluru, India) with high-resolution satellite imagery, we describe novel multi-scalar residential segregation channels, including intra-street micro-segregation. We use data from ≈ 1.75 million households located in more than 15,000 neighborhoods containing the Jirst-ever spatially explicit coding of India’s elementary caste categories (jatis). The spatially marginalized groups in India — Dalits (the formerly “untouchable” castes) and Muslims — live in the densest neighborhoods that are closest to stationary sources of air pollution, experience the greatest urban heat island effects, and have the least access to mitigating green spaces. The differences between environmental outcomes for dominant and marginalized groups span 0.6–1.7 standard deviations. Accounting for multi-scalar residential segregation enables us to empirically distinguish between intergroup collective action problems that inhibit citizen mobilization and institutional discrimination. We use this distinction to show why racialized hierarchies, rather than mere ethnic diversity, explain the observed inequality in access to environmental public goods. Racialized environmental injustice pathways remain robust even after incorporating high-dimensional Jixed effects and controlling for household income and spatial correlations.`
         },
     ],
     altText:`There are no upcoming seminars. Please check again later.`
