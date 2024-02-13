@@ -35,13 +35,7 @@ export const SeminarPageData:seminarPageSpec = {
     ],
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
-        {
-            title: `Timing of the tie-breaker`,
-            speaker: `Amit Goyal, ISI, Delhi`,
-            datetime: `09 February 2024, 11:30 AM`,
-            venue: ` Seminar Room 2 `,
-            description:`Abstract: This paper studies the optimal timing of the tie-breaker in a 2-player game where the players have the opportunity to invest effort in improving their chances of winning and the winner is determined by a fair coin toss in case of a tie. We show that the optimal timing of the tie-breaker depends on the strength of the players. Specifically, if both players are strong enough, it may be optimal to hold the tie-breaker after the match to maximize the sum of the efforts invested by both players. However, if players are not strong enough, it is optimal to hold the tie-breaker before the match as that would lead to more overall effort. We present a simple model to demonstrate these findings and derive the equilibrium strategies and payoffs for both scenarios. Our results provide insights into the optimal timing of tie-breakers in 2-player games, with implications for sports tournaments and other competitive settings.`
-        },
+        
 
         {
             title: `Incontestable Mechanisms`,
@@ -60,11 +54,23 @@ export const SeminarPageData:seminarPageSpec = {
         },
 
         {
-            title: `TBA`,
+            title: `Heterogeneous Noise and Stable Miscoordination`,
             speaker: `Srinivas Arigapudi, IIT, Kanpur`,
             datetime: `01 March 2024, 11:30 AM`,
             venue: ` Seminar Room 2 `,
-            description:`Abstract: TBA`
+            description:`Abstract: Coordination games feature two types of equilibria: pure
+            equilibria, where players successfully coordinate their actions, and mixed
+            equilibria, characterized by frequent miscoordination among players. We
+            investigate learning dynamics where agents observe the actions of a random
+            sample of their opponents. First, we show that when all agents have the
+            same sample size, whether it is small or large, their behavior converges
+            to one of the pure coordinated equilibria. In contrast, our main results
+            show that stable miscoordination often persists when some agents make
+            decisions based on small samples while others rely on large samples.
+            Specifically, in many environments, increasing the sample size for some
+            agents (but not all) results
+            in stable states marked by miscoordination. Finally, we demonstrate the
+            empirical relevance of our results in a bargaining application.`
         },
 
         {

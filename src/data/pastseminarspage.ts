@@ -25,6 +25,12 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Timing of the tie-breaker`,
+            description: `Speaker: Amit Goyal, ISI, Delhi<br>
+            Date: 09 February 2024, 11:30 AM<br>
+            Venue: Seminar Room 2 <br>`
+        },
+        {
             title: `Putting all Eggs in One Basket: Insights from a Correlation 
             Inequality`,
             description: `Speaker: Siddhartha Sahi, Rutgers University <br>
