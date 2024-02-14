@@ -37,20 +37,24 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminars:[
         
 
-        {
-            title: `Incontestable Mechanisms`,
-            speaker: `Inacio Bo, University of Macau`,
-            datetime: `13 February 2024, 2:30 PM (Tuesday)`,
-            venue: ` Seminar Room 2 `,
-            description:`Abstract: In some allocation problems, there is a priority ordering of agents that must be respected in the matching that is produced, in that an agent cannot have revealed to prefer the assignment given to another agent with lower priority. Otherwise, the affected agent could “contest” the assignment, often legally. Mechanisms that never produce assignments that can be contested are Incontestable Mechanisms. While serial dictatorship is the unique Incontestable direct mechanism, coarser message spaces allow for a wider space of mechanisms. We provide characterizations of incontestable mechanisms for different restrictions on message spaces, evaluate incentives induced by these mechanisms and apply these concepts to a real-life application: the Indian Civil Service allocation.`
-        },
+        
         
         {
-            title: `TBA`,
+            title: `Similarity of Information in Games`,
             speaker: `Aditya Kuvalekar, University of Essex`,
             datetime: `16 February 2024, 11:30 AM`,
             venue: ` Seminar Room 2 `,
-            description:`Abstract: TBA`
+            description:`Abstract: We propose a class of stochastic orders, CAD, defined using 
+            conditional distributions, to compare interdependence of joint 
+            distributions. We show that for binary action, symmetric, separable 
+            games, and symmetric pure strategy Bayes-Nash equilibrium, increase in 
+            the similarity of information in the CAD order expands (shrinks) the 
+            equilibrium set when the game exhibits strategic complementarity 
+            (substitutability). We provide three different orders --- weak, 
+            intermediate, and strong, that establish the above relation for games 
+            where the net payoff is linear, convex, and increasing in aggregate 
+            action, respectively. Under additional assumptions, we show that the 
+            reverse direction of this relation also holds true.`
         },
 
         {
