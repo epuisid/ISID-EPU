@@ -36,7 +36,7 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
         {
-            title: `Heterogeneous Noise and Stable Miscoordination`,
+            title: `Sovereign Spreads and the Political Leaning of Nations`,
             speaker: `Alok Johri, McMaster University`,
             datetime: `29 February 2024, 11:30 AM`,
             venue: ` Classroom 14`,
