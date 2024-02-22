@@ -105,7 +105,7 @@ export const SeminarPageData:seminarPageSpec = {
         {
             title: `TBA`,
             speaker: `Neha Khanna, Binghamton University`,
-            datetime: `12 April 2024, 11:30 AM`,
+            datetime: `05 July 2024, 11:30 AM`,
             venue: ` Seminar Room 2 `,
             description:`Abstract: TBA`
         },
