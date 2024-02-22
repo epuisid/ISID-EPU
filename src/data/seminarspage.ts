@@ -35,26 +35,12 @@ export const SeminarPageData:seminarPageSpec = {
     ],
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
-        
-
-        
-        
         {
-            title: `Similarity of Information in Games`,
-            speaker: `Aditya Kuvalekar, University of Essex`,
-            datetime: `16 February 2024, 11:30 AM`,
-            venue: ` Seminar Room 2 `,
-            description:`Abstract: We propose a class of stochastic orders, CAD, defined using 
-            conditional distributions, to compare interdependence of joint 
-            distributions. We show that for binary action, symmetric, separable 
-            games, and symmetric pure strategy Bayes-Nash equilibrium, increase in 
-            the similarity of information in the CAD order expands (shrinks) the 
-            equilibrium set when the game exhibits strategic complementarity 
-            (substitutability). We provide three different orders --- weak, 
-            intermediate, and strong, that establish the above relation for games 
-            where the net payoff is linear, convex, and increasing in aggregate 
-            action, respectively. Under additional assumptions, we show that the 
-            reverse direction of this relation also holds true.`
+            title: `Heterogeneous Noise and Stable Miscoordination`,
+            speaker: `Alok Johri, McMaster University`,
+            datetime: `29 February 2024, 11:30 AM`,
+            venue: ` Classroom 14`,
+            description:`Abstract: Nations vary widely in how often they are governed by left-wing governments. Using data from 56 nations over 45 years, we find that the propensity of a nation to elect the left is positively correlated with both the average level and volatility of their sovereign spreads. To explain these facts, we build a quantitative sovereign default model in which two policymakers (left and right) alternate in power. Reelection probabilities are increasing in government spending, with the left having a small advantage (as found in the data). We use variation in the responsiveness of reelection probabilities to government spending in order to create economies that elect the left more or less frequently in equilibrium. We call these the left leaning and the right leaning economy. The left leaning economy faces worse borrowing terms due to higher default risk. Moreover, both policymakers have a greater reluctance for fiscal austerity and choose a higher share of government spending as compared to their counterparts in the right leaning economy. These features imply large welfare losses for households.`
         },
 
         {
@@ -115,6 +101,13 @@ export const SeminarPageData:seminarPageSpec = {
             datetime: `12 April 2024, 11:30 AM`,
             venue: ` Seminar Room 2 `,
             description:`Abstract: A large body of research has documented urban environmental inequalities around the world, but the nature of their association with a racialized social order remains open. Pairing spatially explicit demographic census micro-data from one of the world’s leading urbanization hotspots (Bengaluru, India) with high-resolution satellite imagery, we describe novel multi-scalar residential segregation channels, including intra-street micro-segregation. We use data from ≈ 1.75 million households located in more than 15,000 neighborhoods containing the Jirst-ever spatially explicit coding of India’s elementary caste categories (jatis). The spatially marginalized groups in India — Dalits (the formerly “untouchable” castes) and Muslims — live in the densest neighborhoods that are closest to stationary sources of air pollution, experience the greatest urban heat island effects, and have the least access to mitigating green spaces. The differences between environmental outcomes for dominant and marginalized groups span 0.6–1.7 standard deviations. Accounting for multi-scalar residential segregation enables us to empirically distinguish between intergroup collective action problems that inhibit citizen mobilization and institutional discrimination. We use this distinction to show why racialized hierarchies, rather than mere ethnic diversity, explain the observed inequality in access to environmental public goods. Racialized environmental injustice pathways remain robust even after incorporating high-dimensional Jixed effects and controlling for household income and spatial correlations.`
+        },
+        {
+            title: `TBA`,
+            speaker: `Neha Khanna, Binghamton University`,
+            datetime: `12 April 2024, 11:30 AM`,
+            venue: ` Seminar Room 2 `,
+            description:`Abstract: TBA`
         },
     ],
     altText:`There are no upcoming seminars. Please check again later.`

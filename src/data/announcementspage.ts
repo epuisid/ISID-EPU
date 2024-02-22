@@ -9,11 +9,9 @@ export const AnnouncementsData: announcementspecs[] = [
         title: `Hiring Announcements`,
         list: [
             {
-                title: `Assistant Professor`,
+                title: `No official hiring at this point`,
                 paragraphs: [
-                 { text: `We are hiring Assistant Professors, particularly from the reserved category. There is a 
-                 rolling advertisement: [<a href="https://www.isical.ac.in/sites/default/files/jobs/Faculty%20Recruitment%20Advertisement%202022.pdf"> Advertisement</a>]
-                 Apply using the link.`}   
+                 { text: `If you are interested in applying to EPU, please send an email to abhiroop [at] isid.ac.in. EPU is always looking for candidates in all fields of economics (we are looking for reserved category and female candidates in particular)`}   
                 ]
             }
         ]

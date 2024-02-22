@@ -25,6 +25,13 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Similarity of Information in Games`,
+            description:` Speaker: Aditya Kuvalekar, University of Essex <br>
+            Date: 16 February 2024, 2:30 PM <br>
+            Venue: Seminar Room 2 <br>`
+        },
+
+        {
             title: `Incontestable Mechanisms`,
             description:` Speaker: Inacio Bo, University of Macau <br>
             Date: 13 February 2024, 2:30 PM (Tuesday) <br>
