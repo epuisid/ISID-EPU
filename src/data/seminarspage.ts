@@ -36,34 +36,6 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
         {
-            title: `Sovereign Spreads and the Political Leaning of Nations`,
-            speaker: `Alok Johri, McMaster University`,
-            datetime: `29 February 2024, 11:30 AM`,
-            venue: ` Classroom 14`,
-            description:`Abstract: Nations vary widely in how often they are governed by left-wing governments. Using data from 56 nations over 45 years, we find that the propensity of a nation to elect the left is positively correlated with both the average level and volatility of their sovereign spreads. To explain these facts, we build a quantitative sovereign default model in which two policymakers (left and right) alternate in power. Reelection probabilities are increasing in government spending, with the left having a small advantage (as found in the data). We use variation in the responsiveness of reelection probabilities to government spending in order to create economies that elect the left more or less frequently in equilibrium. We call these the left leaning and the right leaning economy. The left leaning economy faces worse borrowing terms due to higher default risk. Moreover, both policymakers have a greater reluctance for fiscal austerity and choose a higher share of government spending as compared to their counterparts in the right leaning economy. These features imply large welfare losses for households.`
-        },
-
-        {
-            title: `Heterogeneous Noise and Stable Miscoordination`,
-            speaker: `Srinivas Arigapudi, IIT, Kanpur`,
-            datetime: `01 March 2024, 11:30 AM`,
-            venue: ` Seminar Room 2 `,
-            description:`Abstract: Coordination games feature two types of equilibria: pure
-            equilibria, where players successfully coordinate their actions, and mixed
-            equilibria, characterized by frequent miscoordination among players. We
-            investigate learning dynamics where agents observe the actions of a random
-            sample of their opponents. First, we show that when all agents have the
-            same sample size, whether it is small or large, their behavior converges
-            to one of the pure coordinated equilibria. In contrast, our main results
-            show that stable miscoordination often persists when some agents make
-            decisions based on small samples while others rely on large samples.
-            Specifically, in many environments, increasing the sample size for some
-            agents (but not all) results
-            in stable states marked by miscoordination. Finally, we demonstrate the
-            empirical relevance of our results in a bargaining application.`
-        },
-
-        {
             title: `Seemingly informative matching mechanisms`,
             speaker: `Dinko Dimitrov, Saarland University`,
             datetime: `08 March 2024, 11:30 AM`,

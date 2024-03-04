@@ -25,6 +25,18 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Heterogeneous Noise and Stable Miscoordination`,
+            description:` Speaker: Srinivas Arigapudi, IIT, Kanpur <br>
+            Date: 01 March 2024, 11:30 AM <br>
+            Venue: Classroom 14 <br>`
+        },
+        {
+            title: `Sovereign Spreads and the Political Leaning of Nations`,
+            description:` Speaker: Alok Johri, McMaster University <br>
+            Date: 29 February 2024, 11:30 AM <br>
+            Venue: Classroom 14 <br>`
+        },
+        {
             title: `Similarity of Information in Games`,
             description:` Speaker: Aditya Kuvalekar, University of Essex <br>
             Date: 16 February 2024, 2:30 PM <br>
