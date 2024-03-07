@@ -39,7 +39,7 @@ export const SeminarPageData:seminarPageSpec = {
             title: `Seemingly informative matching mechanisms`,
             speaker: `Dinko Dimitrov, Saarland University`,
             datetime: `08 March 2024, 11:30 AM`,
-            venue: ` Seminar Room 2 `,
+            venue: ` Classroom 14 `,
             description:`Abstract: We consider a model where market participants can observe the identity of the agents they can be matched with but not their types. A mechanism generates a matching and an announcement at each reported type profile. We start by providing a stability notion for matching states and fully characterize (for the case of one-sided incomplete information) the set of matching states which are both minimally informative and stable. The developed stability notion is then incorporated in the definition of ex-post incentive compatible mechanisms and it is shown that not every mechanism generating the assortative matching at each reported type profile is ex-post incentive compatible. We introduce the class of seemingly informative assortative matching mechanisms allowing for specific (public or private) announcements and prove our first main result showing that every such mechanism is ex-post incentive compatible. We further allow for the possibility that different agents submit the same report, suitably modify the notion of an assortative matching mechanism, and provide our second main result stating that every such modified mechanism is ex-post incentive compatible. We finally show that seemingly informative matching mechanisms might become manipulable when incompleteness of information applies to both market sides.`
         },
 
