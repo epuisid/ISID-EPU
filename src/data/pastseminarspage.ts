@@ -25,6 +25,12 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Seemingly informative matching mechanisms`,
+            description:` Speaker: Dinko Dimitrov, Saarland University <br>
+            Date: 08 March 2024, 11:30 AM <br>
+            Venue: Classroom 14 <br>`
+        },
+        {
             title: `Heterogeneous Noise and Stable Miscoordination`,
             description:` Speaker: Srinivas Arigapudi, IIT, Kanpur <br>
             Date: 01 March 2024, 11:30 AM <br>
