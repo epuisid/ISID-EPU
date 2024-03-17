@@ -36,11 +36,36 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
         {
-            title: `Global Food Prices, Local Frictions and Air Pollution`,
-            speaker: `Digvijay Singh Negi, IGIDR`,
-            datetime: `15 March 2024, 11:30 AM`,
+            title: `Econometric modelling of carbon dioxide emissions and 
+            concentrations, ambient temperatures and ocean deoxygenation`,
+            speaker: `Alok Bhargava, University of Maryland`,
+            datetime: `18 March, 2024, 11:30 AM`,
             venue: ` Seminar Room 2 `,
-            description:`Abstract: Can policies that distort market incentives result in negative externalities with large and widespread social costs? I uncover a robust relationship between global rice prices and air pollution in India. I establish that this link comes about due to higher global rice prices leading to increased agricultural fire activity in states where the government is the largest buyer of rice. In terms of mechanisms, I observe higher global prices leading to specialization in rice cultivation in states with higher government interference but not necessarily suitable for rice cultivation. Market distortion in the form of a pre-announced national price floor supported by government procurement of surplus rice delinks local prices from local productivity shocks and links them with global price movements. This is striking, given that India’s agricultural price policy intends to insulate farmers from global price volatility.`
+            description:`Abstract: This paper analysed several longitudinal data sets for 
+            investigating the dynamic inter-relationships between CO2 emissions and 
+            atmospheric concentrations, ambient temperatures and ocean acidification 
+            and deoxygenation. The methodological framework addressed issues such as 
+            the use of temperature ‘anomalies’, diffusion of CO2 to atmospheric 
+            stations, distributional misspecification and non-stationarity of errors 
+            affecting empirical models, and use of spline functions for modelling 
+            trends in temperatures. Longitudinal data on CO2 emissions for 163 
+            countries and atmospheric CO2 concentrations at 10 stations, ambient 
+            temperatures from over 8,500 weather stations and sea-water composition 
+            from over 380,000 oceanographic stations were analysed for 1985–2018 by 
+            estimating dynamic random effects models using maximum likelihood 
+            methods. The main findings were that CO2 emissions exhibited rapid 
+            upward trends at the country level, while minimum and maximum 
+            temperatures showed cyclical patterns; economic activity and population 
+            levels were associated with higher CO2 emissions. Second, there were 
+            gradual upward trends in annual and seasonal temperatures compiled at 
+            weather stations, and atmospheric CO2 concentrations were significantly 
+            associated with higher temperatures in the hemispheres. Third, there was 
+            a steady decline in dissolved oxygen levels, and the interactive effects 
+            of water temperatures and pH levels were significant. Overall, the 
+            results underscore the benefits of reducing CO2 emissions for ambient 
+            temperatures and for ocean deoxygenation. Synergies between CO2 
+            emissions, ambient temperatures and ocean acidification are likely to 
+            exacerbate the melting of polar ice.`
         },
 
         

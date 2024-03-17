@@ -25,6 +25,12 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Global Food Prices, Local Frictions and Air Pollution`,
+            description:` Speaker: Digvijay Singh Negi, IGIDR <br>
+            Date: 15 March 2024, 11:30 AM <br>
+            Venue: Seminar Room 2 <br>`
+        },
+        {
             title: `Seemingly informative matching mechanisms`,
             description:` Speaker: Dinko Dimitrov, Saarland University <br>
             Date: 08 March 2024, 11:30 AM <br>
