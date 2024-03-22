@@ -25,6 +25,13 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Econometric modelling of carbon dioxide emissions and 
+            concentrations, ambient temperatures and ocean deoxygenation`,
+            description:` Speaker: Alok Bhargava, University of Maryland <br>
+            Date: 18 March 2024, 11:30 AM <br>
+            Venue: Seminar Room 2 <br>`
+        },
+        {
             title: `Global Food Prices, Local Frictions and Air Pollution`,
             description:` Speaker: Digvijay Singh Negi, IGIDR <br>
             Date: 15 March 2024, 11:30 AM <br>

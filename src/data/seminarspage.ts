@@ -34,41 +34,7 @@ export const SeminarPageData:seminarPageSpec = {
         }
     ],
     upcomingSeminarsTitle:`Upcoming Seminars`,
-    upcomingSeminars:[
-        {
-            title: `Econometric modelling of carbon dioxide emissions and 
-            concentrations, ambient temperatures and ocean deoxygenation`,
-            speaker: `Alok Bhargava, University of Maryland`,
-            datetime: `18 March, 2024, 11:30 AM`,
-            venue: ` Seminar Room 2 `,
-            description:`Abstract: This paper analysed several longitudinal data sets for 
-            investigating the dynamic inter-relationships between CO2 emissions and 
-            atmospheric concentrations, ambient temperatures and ocean acidification 
-            and deoxygenation. The methodological framework addressed issues such as 
-            the use of temperature ‘anomalies’, diffusion of CO2 to atmospheric 
-            stations, distributional misspecification and non-stationarity of errors 
-            affecting empirical models, and use of spline functions for modelling 
-            trends in temperatures. Longitudinal data on CO2 emissions for 163 
-            countries and atmospheric CO2 concentrations at 10 stations, ambient 
-            temperatures from over 8,500 weather stations and sea-water composition 
-            from over 380,000 oceanographic stations were analysed for 1985–2018 by 
-            estimating dynamic random effects models using maximum likelihood 
-            methods. The main findings were that CO2 emissions exhibited rapid 
-            upward trends at the country level, while minimum and maximum 
-            temperatures showed cyclical patterns; economic activity and population 
-            levels were associated with higher CO2 emissions. Second, there were 
-            gradual upward trends in annual and seasonal temperatures compiled at 
-            weather stations, and atmospheric CO2 concentrations were significantly 
-            associated with higher temperatures in the hemispheres. Third, there was 
-            a steady decline in dissolved oxygen levels, and the interactive effects 
-            of water temperatures and pH levels were significant. Overall, the 
-            results underscore the benefits of reducing CO2 emissions for ambient 
-            temperatures and for ocean deoxygenation. Synergies between CO2 
-            emissions, ambient temperatures and ocean acidification are likely to 
-            exacerbate the melting of polar ice.`
-        },
-
-        
+    upcomingSeminars:[ 
         {
             title: `Adapting to Flood Risk: Evidence from a Global Panel of Cities`,
             speaker: `Vaidehi Tandel, University of Manchester`,
