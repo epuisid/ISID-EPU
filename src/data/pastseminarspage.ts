@@ -25,6 +25,12 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Adapting to Flood Risk: Evidence from a Global Panel of Cities`,
+            description:`Vaidehi Tandel, University of Manchester<br>
+            Date: 22 March, 2024, 11:30 AM<br>
+            Venue: Seminar Room 2 <br>`
+        },
+        {
             title: `Econometric modelling of carbon dioxide emissions and 
             concentrations, ambient temperatures and ocean deoxygenation`,
             description:` Speaker: Alok Bhargava, University of Maryland <br>
