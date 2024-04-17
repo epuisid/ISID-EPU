@@ -25,6 +25,12 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Racialized urban spaces and environmental injustice using high resolution paired data`,
+            description:`Deepak Malghan, IIM, Bangalore<br>
+            Date: 12 April, 2024, 11:30 AM<br>
+            Venue: Seminar Room 2 <br>`
+        },
+        {
             title: `Adapting to Flood Risk: Evidence from a Global Panel of Cities`,
             description:`Vaidehi Tandel, University of Manchester<br>
             Date: 22 March, 2024, 11:30 AM<br>
