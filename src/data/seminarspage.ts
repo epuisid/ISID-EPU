@@ -35,14 +35,16 @@ export const SeminarPageData:seminarPageSpec = {
     ],
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
-        
         {
-            title: `Are the Effects of Climate Change on Agriculture Underestimated? A Disaggregated Analysis for India`,
-            speaker: `Shreekant Gupta, Delhi School of Economics`,
-            datetime: `24 April 2024 (Wednesday), 11:30 AM`,
-            venue: ` Classroom 14 `,
-            description:`Abstract: An extensive and growing body of literature on the consequences of climate change for agriculture provides a diverse array of estimated effects. This paper contends documented effects of climate change in the literature are underestimated for three reasons: the use of static specifications, the neglect or inadequate treatment of intra-year variability in key climate change variables, and the asymmetric impact of positive and negative climate shocks. We illustrate this underestimation by presenting a case study focused on the Indian agricultural sector. Through addressing these sources of underestimation our results indicate large long-run impacts of rainfall and temperature anomalies on yields for a range of food and non-food crops.`
+            title: `Multi-source labour statistics.  Mixture of Hidden Markov Models and Machine learning tools`,
+            speaker: `Roberta Varriale, Sapienza University of Rome`,
+            datetime: `03 May 2024, 11:30 AM`,
+            venue: ` Seminar Room 2 `,
+            description:`Abstract: In recent decades, national statistical institutes in Europe have started to produce official statistics using multiple sources of information rather than a single source, usually a statistical survey.
+            We show how latent variable models can be used for employment statistics in Italy using survey and administrative data, taking into account the shortcomings of the measurement process and the longitudinal structure of the data. To this end, we use a mixture of hidden Markov models, a longitudinal extension of latent class analysis. 
+            We also show how machine learning methods can be used to predict individual occupational status. This approach is based on the application of decision tree and random forest techniques, which are often used to classify large amounts of data. `
         },
+        
         {
             title: `TBA`,
             speaker: `Neha Khanna, Binghamton University`,

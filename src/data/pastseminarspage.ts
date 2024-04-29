@@ -25,6 +25,12 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Are the Effects of Climate Change on Agriculture Underestimated? A Disaggregated Analysis for India`,
+            description:`Shreekant Gupta, Delhi School of Economics<br>
+            Date: 24 April, 2024 (Wednesday), 11:30 AM<br>
+            Venue: Classroom 14 <br>`
+        },
+        {
             title: `Racialized urban spaces and environmental injustice using high resolution paired data`,
             description:`Deepak Malghan, IIM, Bangalore<br>
             Date: 12 April, 2024, 11:30 AM<br>

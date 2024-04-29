@@ -44,12 +44,6 @@ export const PhDStudentsData: PhdStudentsSpec = {
             name: `Bhavook Bhardwaj (Thesis submitted)`
         },
         {
-            image: `assets/people/hd.jpg`,
-            description: `Area: decision theory, mechanism design<br>
-            Advisor: Debasis Mishra`,
-            name: `Harshika Dalakoti (Thesis submitted)`
-        },
-        {
             image: `assets/people/priyanka.jpg`,
             description: `Area: industrial organization, development economics, environmental economics<br>
             Advisor: Tridip Ray`,
@@ -154,12 +148,6 @@ Advisor: E. Somanathan
             description: `Area: auction theory, mechanism design <br>
             Advisor: Debasis Mishra`,
             name: `Anushree Saha `
-        },
-        {
-            image: `assets/people/ans.jpg`,
-            description: `Area: matching theory, mechanism design, game theory <br>
-            Advisor: Arunava Sen`,
-            name: `Ankit Singh `
         },
         
         {
