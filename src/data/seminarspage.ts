@@ -36,15 +36,13 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
         {
-            title: `Multi-source labour statistics.  Mixture of Hidden Markov Models and Machine learning tools`,
-            speaker: `Roberta Varriale, Sapienza University of Rome`,
-            datetime: `03 May 2024, 11:30 AM`,
+            title: `TBA`,
+            speaker: `Shahir Safi, New Economic School`,
+            datetime: `10 May 2024, 11:30 AM`,
             venue: ` Seminar Room 2 `,
-            description:`Abstract: In recent decades, national statistical institutes in Europe have started to produce official statistics using multiple sources of information rather than a single source, usually a statistical survey.
-            We show how latent variable models can be used for employment statistics in Italy using survey and administrative data, taking into account the shortcomings of the measurement process and the longitudinal structure of the data. To this end, we use a mixture of hidden Markov models, a longitudinal extension of latent class analysis. 
-            We also show how machine learning methods can be used to predict individual occupational status. This approach is based on the application of decision tree and random forest techniques, which are often used to classify large amounts of data. `
+            description:`Abstract: TBA`
         },
-        
+
         {
             title: `TBA`,
             speaker: `Neha Khanna, Binghamton University`,

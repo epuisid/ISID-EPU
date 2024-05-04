@@ -17,7 +17,7 @@ export const PastPhdStudentsData: pastphdstudents = {
             year: `2024`,
             description: `<em><a href="">
             Bilateral Trade and Partnership with loss averse agents</a></em> (Advisor: <b><a href="https://www.isid.ac.in/~dmishra">Debasis Mishra</a></b>)<br>
-        First placement: Azim Premji University<br><br>`
+        First placement: Assistant Professor, Azim Premji University<br><br>`
         },
         
         {
@@ -34,7 +34,7 @@ export const PastPhdStudentsData: pastphdstudents = {
             year: `2023`,
             description: `<em><a href="http://dspace.isical.ac.in:8080/jspui/bitstream/10263/7428/1/Thesis_Kriti%20Manocha-29-12-23.pdf">
             Essays on Choice and Matching</a></em> (Advisor: <b><a href="https://www.isid.ac.in/~asen">Arunava Sen</a></b>)<br>
-        First placement: Shiv Nadar University<br><br>`
+        First placement: Assistant Professor, Shiv Nadar University<br><br>`
         },
 
         {

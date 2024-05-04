@@ -25,6 +25,12 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
         {
+            title: `Multi-source labour statistics.  Mixture of Hidden Markov Models and Machine learning tools`,
+            description:`Roberta Varriale, Sapienza University of Rome<br>
+            Date: 03 May 2024, 11:30 AM<br>
+            Venue: Seminar Room 2 <br>`
+        },
+        {
             title: `Are the Effects of Climate Change on Agriculture Underestimated? A Disaggregated Analysis for India`,
             description:`Shreekant Gupta, Delhi School of Economics<br>
             Date: 24 April, 2024 (Wednesday), 11:30 AM<br>
