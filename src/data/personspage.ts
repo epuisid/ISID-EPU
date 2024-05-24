@@ -176,7 +176,7 @@ export const PersonsData:personsSpec = {
                     `Debasis Mishra`,
                     `Xu Lang`
                 ],
-                publicationDetails:`Theoretical Economics, 2023`
+                publicationDetails:`Theoretical Economics, 2024`
             },
             {
                 title:`Strategy-proof multi-object mechanism design: Ex-post revenue maximization with non-quasilinear preferences`,
@@ -571,7 +571,7 @@ export const PersonsData:personsSpec = {
                 PhD, Iowa State University`,
         description:[
             {
-                text:`Monisankar Bishnu is an Associate Professor in the 
+                text:`Monisankar Bishnu is a Professor in the 
                 Economics and Planning Unit of the Indian Statistical Institute 
                 (ISI), Delhi Centre.
                 <br><br>
@@ -606,35 +606,38 @@ export const PersonsData:personsSpec = {
                 publicationDetails:`Journal of Money, Credit, and Banking, 2023`
             },
             {
+                title:`Intergenerational transfers: Public education and pensions with endogenous fertility`,
+                link:`https://doi.org/10.1016/j.jedc.2023.104697`,//TODO,
+                authors:[
+                    `Monisankar Bishnu`,
+                    `Shresth Garg`,
+                    `Tishara Garg`,
+                    `Tridip Ray`
+                ],
+                publicationDetails:`Journal of Economic Dynamics and Control, 2023`
+            },
+            {
+                title:`What Determines Women's Labor Supply? Market Productivity, Home Productivity and Social Norms`,
+                link:`https://doi.org/10.1017/dem.2022.22`,//TODO,
+                authors:[
+                    `Farzana Afridi`,
+                    `Monisankar Bishnu`,
+                    `Kanika Mahajan`
+                ],
+                publicationDetails:`Journal of Demographic Economics, 2023`
+            },
+
+            {
                 title:`Gender and Mechanization: Evidence from Indian Agriculture`,
                 link:`https://doi.org/10.1111/ajae.12315`,//TODO,
                 authors:[
-                    `Monisankar Bishnu`,
+                    `Farzana Afridi`,
                     `Monisankar Bishnu`,
                     `Kanika Mahajan`
                 ],
                 publicationDetails:`American Journal of Agricultural Economics, 2023`
             },
-            {
-                title:`Pension, Possible Phaseout, and Endogenous Fertility in General Equilibrium`,
-                link:`https://onlinelibrary.wiley.com/doi/abs/10.1111/jpet.12621`,
-                authors:[
-                    `Monisankar Bishnu`,
-                    `Amol Amol`,
-                    `Tridip Ray`
-                ],
-                publicationDetails:`Journal of Public Economic Theory, 2022`
-            },
-            {
-                title:`Implications of Present-biased Preferences on Inheritance Taxes`,
-                link:`https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/abs/implications-of-presentbiased-preferences-on-inheritance-taxes/9FEB107C7C1B4BA8C83195E92A1352C9`,
-                authors:[
-                    `Monisankar Bishnu`,
-                    `Cagri S. Kumru`,
-                    `Arm Nakornthab`
-                ],
-                publicationDetails:`Macroeconomic Dynamics, 2022`
-            },
+
             {
                 title:`Optimal Intergenerational Transfers: Public Education and Pensions`,
                 link:`https://www.sciencedirect.com/science/article/abs/pii/S0047272721000475`,

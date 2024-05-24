@@ -36,11 +36,10 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
         {
-            title: `TBA`,
-            speaker: `Shahir Safi, New Economic School`,
-            datetime: `10 May 2024, 11:30 AM`,
+            title: `Trade Clubs and International Environmental Agreements: The Basel Convention`,
+            speaker: `Prakrati Thakur, Rensselaer Polytechnic Institute`,
+            datetime: `07 June 2024, 11:30 AM`,
             venue: ` Seminar Room 2 `,
-            description:`Abstract: TBA`
         },
 
         {

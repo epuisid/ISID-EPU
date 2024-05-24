@@ -24,6 +24,13 @@ export const PastSeminarsData: pastSeminarsSpec = {
         }
     ],
     pastSeminars: [
+            {
+                title: `Job Market Signalling Via Social Ties`,
+                description:`Shahir Safi, New Economic School<br>
+                Date: 10 May 2024, 11:30 AM<br>
+                Venue: Seminar Room 2 <br>`
+            },
+            
         {
             title: `Multi-source labour statistics.  Mixture of Hidden Markov Models and Machine learning tools`,
             description:`Roberta Varriale, Sapienza University of Rome<br>
