@@ -566,7 +566,7 @@ export const PersonsData:personsSpec = {
     monisankar_bishnu:{
         name:`Monisankar Bishnu`,
         image:`assets/people/mbishnu.jpg`,
-        title:`Associate Professor
+        title:`Professor
                 <br>
                 PhD, Iowa State University`,
         description:[
