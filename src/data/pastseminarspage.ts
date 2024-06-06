@@ -24,6 +24,13 @@ export const PastSeminarsData: pastSeminarsSpec = {
         }
     ],
     pastSeminars: [
+        {
+            title: `Trade Clubs and International Environmental Agreements: The Basel Convention`,
+            description:`Prakrati Thakur, Rensselaer Polytechnic Institute<br>
+            Date: 06 June 2024, 3:30 PM<br>
+            Venue: Seminar Room 2 <br>`
+        },
+
             {
                 title: `Job Market Signalling Via Social Ties`,
                 description:`Shahir Safi, New Economic School<br>
