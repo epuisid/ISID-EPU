@@ -76,14 +76,15 @@ export const PhDStudentsData: PhdStudentsSpec = {
         {
             image: `assets/people/nj.jpg`,
             description: `Area: industrial organization<br>
-Advisor: Prabal Roy Chowdhury
+            Advisor: Prabal Roy Chowdhury
             `,
             name: `Nilesh Jain `
         },
         {
             image: `assets/people/ok.jpg`,
-            description: `Area: behavioral economics, networks, game theory <br>
-            Advisor: Debasis Mishra`,
+            description: `Area: Institution design, Fair division and allocation, Social Choice, Behavioral Economics <br>
+            Advisor: Debasis Mishra
+            Web: <a href="https://sites.google.com/view/ojasvikhare">Click</a>`,
             name: `Ojasvi Khare `
         },
         {
@@ -101,7 +102,7 @@ Advisor: Prabal Roy Chowdhury
         {
             image: `assets/people/prk.jpg`,
             description: `Area: environmental economics, rural economy, political economy <br>
-Advisor: E. Somanathan
+            Advisor: E. Somanathan
             Web: <a href="https://sites.google.com/view/kumar-praveen/home">Click</a>`,
             name: `Praveen Kumar `
         },

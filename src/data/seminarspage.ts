@@ -35,12 +35,7 @@ export const SeminarPageData:seminarPageSpec = {
     ],
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
-        {
-            title: `Trade Clubs and International Environmental Agreements: The Basel Convention`,
-            speaker: `Prakrati Thakur, Rensselaer Polytechnic Institute`,
-            datetime: `06 June 2024, 3:30 PM`,
-            venue: ` Seminar Room 2 `,
-        },
+
 
         {
             title: `TBA`,
