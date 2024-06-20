@@ -25,16 +25,16 @@ export const PersonsData:personsSpec = {
     arunava_sen:{
         name:`Arunava Sen`,
         image:`assets/people/asen.jpg`,
-        title:`Professor
+        title:`Professor Emeritus
                 <br>
                 PhD, Princeton University`,
         description:[
             {
-                text:`Arunava Sen is a professor in the Economics and Planning 
+                text:`Arunava Sen is a Professor Emeritus in the Economics and Planning 
                 Unit of the Indian Statistical Institute (ISI), Delhi.
                 <br><br>
                 He received his PhD from Princeton University in 1987. He joined 
-                ISI Delhi in 1988 and has been with ISI ever since. 
+                ISI Delhi in 1988 and retired from ISI in 2024. He has been with ISI as Professor Emeritus after his retirement. 
                 <br><br>
                 Arunava is a recipient of the Infosys Prize in Social Science in 
                 2012. He is also a fellow of the Econometric Society, an Economic 
