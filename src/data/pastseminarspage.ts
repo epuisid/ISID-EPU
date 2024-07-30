@@ -24,6 +24,15 @@ export const PastSeminarsData: pastSeminarsSpec = {
         }
     ],
     pastSeminars: [
+        
+            {
+                title: `Neglected Hazard: Mental Health and Traffic Noise`,
+                description:`Neha Khanna, Binghamton University<br>
+                Date: 05 July 2024, 11:30 AM<br>
+                Venue: Seminar Room 2 <br>`
+            },
+
+
         {
             title: `Trade Clubs and International Environmental Agreements: The Basel Convention`,
             description:`Prakrati Thakur, Rensselaer Polytechnic Institute<br>
