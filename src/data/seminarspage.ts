@@ -40,7 +40,7 @@ export const SeminarPageData:seminarPageSpec = {
         {
             title: `Panics and Early Warnings`,
             speaker: `Deepal Basak, Indiana University`,
-            datetime: `3 PM, 05 August (Monday)`,
+            datetime: `4 PM, 05 August (Monday)`,
             venue: ` Seminar Room 2 `,
             description:`Abstract: We study optimal adversarial information design in a dynamic regime change game. Agents
 decide when to attack, if at all. We assume (1) delay incurs a continuous cost and (2) agents doubt
