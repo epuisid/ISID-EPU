@@ -38,17 +38,11 @@ export const SeminarPageData:seminarPageSpec = {
 
 
         {
-            title: `Panics and Early Warnings`,
-            speaker: `Deepal Basak, Indiana University`,
-            datetime: `4 PM, 05 August (Monday)`,
+            title: `TBA`,
+            speaker: `TBA`,
+            datetime: `TBA`,
             venue: ` Seminar Room 2 `,
-            description:`Abstract: We study optimal adversarial information design in a dynamic regime change game. Agents
-decide when to attack, if at all. We assume (1) delay incurs a continuous cost and (2) agents doubt
-the correctness of their actions. The game may end in a “disaster” due to weak fundamentals or
-panic — agents attacking despite sound fundamentals. We propose a “timely disaster alert” that
-promptly warns about impending disasters, making waiting for and following the alert the unique
-rationalizable strategy, thereby eliminating panic. We relate this optimal policy to early warning
-systems such as bank stress tests and debt sustainability analysis.`
+            description:`TBA`
         },
     ],
     altText:`There are no upcoming seminars. Please check again later.`

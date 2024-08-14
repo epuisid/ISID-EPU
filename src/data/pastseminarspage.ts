@@ -24,6 +24,13 @@ export const PastSeminarsData: pastSeminarsSpec = {
         }
     ],
     pastSeminars: [
+
+        {
+            title: `Panics and Early Warnings`,
+            description:`Deepal Basak, Indiana University<br>
+            Date: 05 August 2024, 4 PM<br>
+            Venue: Seminar Room 2 <br>`
+        },
         
             {
                 title: `Neglected Hazard: Mental Health and Traffic Noise`,
