@@ -11,7 +11,7 @@ export const AnnouncementsData: announcementspecs[] = [
             {
                 title: `No official hiring at this point`,
                 paragraphs: [
-                 { text: `If you are interested in applying to EPU, please send an email to abhiroop [at] isid.ac.in. EPU is always looking for candidates in all fields of economics (we are looking for reserved category and female candidates in particular)`}   
+                 { text: `There is a special drive to hire in economics in Delhi center of ISI. The hiring is in all positions and the deadline is 31st October 2024:` <a href="https://www.isical.ac.in/sites/default/files/jobs/Faculty%20Recruitment%20Advertisement%20-%202024.pdf">Advertisement</a>}   
                 ]
             }
         ]
@@ -22,7 +22,7 @@ export const AnnouncementsData: announcementspecs[] = [
             {
                 title: `ACEGD Conference`,
                 paragraphs: [
-                    { text: `Submit your best papers on growth and development to ACEGD: 2023 ACEGD conference website is <a href="https://www.isid.ac.in/~acegd/acegd2023/">here</a>.` }
+                    { text: `Submit your best papers on growth and development to ACEGD: 2024 ACEGD conference website is <a href="https://www.isid.ac.in/~acegd/acegd2024/">here</a>.` }
                 ]
             }
         ]
