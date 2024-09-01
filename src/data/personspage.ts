@@ -663,9 +663,7 @@ export const PersonsData:personsSpec = {
     abhiroop_mukhopadhyay:{
         name:`Abhiroop Mukhopadhyay`,
         image:`assets/people/am.jpg`,
-        title:`Head, EPU, 
-                <br>
-                Professor
+        title:`Professor
                 <br>
                 PhD, Pennsylvania State University`,
         description:[
@@ -866,7 +864,7 @@ export const PersonsData:personsSpec = {
     mudit_kapoor:{
         name:`Mudit Kapoor`,
         image:`assets/people/mudit.jpg`,
-        title:`Associate Professor
+        title:`Head and Associate Professor
                 <br>
                 PhD, University of Maryland`,
         description:[

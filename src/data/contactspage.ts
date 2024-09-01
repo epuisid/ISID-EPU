@@ -9,11 +9,11 @@ export const ContactsPageData: contactsPageSpec = {
     title: `Contacts`,
     pointsOfContact: [
         {
-            title: `Head, Economics and Planning Unit: <strong>Abhiroop Mukhopadhyay</strong>`,
+            title: `Head, Economics and Planning Unit: <strong>Mudit Kapoor</strong>`,
             paragraphs: [
                 { text: `Room 224, Economics and Planning Unit, ISI Delhi<br>
-                Phone: +91 - 11 - 4149 3925<br>
-                Email: abhiroop[at] isid.ac.in` }
+                Phone: +91 - 11 - 4149 3929<br>
+                Email: mkapoor[at] isid.ac.in` }
             ]
         },
         {
