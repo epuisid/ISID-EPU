@@ -55,6 +55,14 @@ export const SeminarPageData:seminarPageSpec = {
 
         {
             title: `TBA`,
+            speaker: `Bipasha Maity, Ashoka University`,
+            datetime: `11:30 AM, 29 November, 2024`,
+            venue: ` Seminar Room 2 `,
+            description:``
+        },
+
+        {
+            title: `TBA`,
             speaker: `Prachi Mishra, Ashoka University`,
             datetime: `11:30 AM, 06 December, 2024`,
             venue: ` Seminar Room 2 `,
