@@ -52,6 +52,14 @@ export const SeminarPageData:seminarPageSpec = {
             venue: ` Seminar Room 2 `,
             description:`Weak property rights can hinder access to collateralized debt, especially in developing countries. This paper documents appraisal gaps that result in lenders valuing the housing collateral of minority borrowers lower than that of non-minority borrowers. Using pan-India data on mortgages with detailed information on minority status, we show that mortgage collateral for minority borrowers is appraised 17\% lower than collateral of non-minority borrowers. Nearly 32\% of this disparity is attributable to between-neighbourhood variation and the remaining to within-neighbourhood variation. An important mechanism is ambiguous property titles of minority-owned properties. Disparity does not arise from differences in the "black money" component of property prices or the creditworthiness of borrowers. Using the digitalization of property records in the state of Rajasthan as a laboratory, we show that strengthening the property rights of minority borrowers narrows the appraisal gap.`
         },
+
+        {
+            title: `TBA`,
+            speaker: `Prachi Mishra, Ashoka University`,
+            datetime: `11:30 AM, 06 December, 2024`,
+            venue: ` Seminar Room 2 `,
+            description:``
+        },
     ],
     altText:`There are no upcoming seminars. Please check again later.`
 }
