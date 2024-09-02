@@ -9,7 +9,7 @@ export const AnnouncementsData: announcementspecs[] = [
         title: `Hiring Announcements`,
         list: [
             {
-                title: `No official hiring at this point`,
+                title: `We are hiring`,
                 paragraphs: [
                  { text: `There is a special drive to hire in economics in Delhi center of ISI. The hiring is in all positions and the deadline is 31st October 2024: <a href="https://www.isical.ac.in/sites/default/files/jobs/Faculty%20Recruitment%20Advertisement%20-%202024.pdf">Advertisement</a>`}   
                 ]
