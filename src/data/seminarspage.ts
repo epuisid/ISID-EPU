@@ -54,7 +54,7 @@ export const SeminarPageData:seminarPageSpec = {
         },
 
         {
-            title: `TBA`,
+            title: `Soil Endowments and Intra-Household Distribution of Consumption in India: A Structural Approach`,
             speaker: `Bipasha Maity, Ashoka University`,
             datetime: `11:30 AM, 29 November, 2024`,
             venue: ` Seminar Room 2 `,
@@ -65,6 +65,13 @@ export const SeminarPageData:seminarPageSpec = {
             title: `TBA`,
             speaker: `Prachi Mishra, Ashoka University`,
             datetime: `11:30 AM, 06 December, 2024`,
+            venue: ` Seminar Room 2 `,
+            description:``
+        },
+        {
+            title: `TBA`,
+            speaker: `Nishant Ravi, Indian School of Business`,
+            datetime: `11:30 AM, 24 January, 2024`,
             venue: ` Seminar Room 2 `,
             description:``
         },
