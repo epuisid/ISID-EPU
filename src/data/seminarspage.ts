@@ -46,6 +46,14 @@ export const SeminarPageData:seminarPageSpec = {
         },
 
         {
+            title: `Empower to Prosper: Women Working for Growth`,
+            speaker: `Jonah Matthew Rexer (World Bank)`,
+            datetime: `4:00 PM, 14 October, 2024 (Note: Monday)`,
+            venue: ` Seminar Room 2 `,
+            description: `Over the past three decades, South Asia has benefited from strong economic growth, accompanied by urbanization, trade liberalization, a shift towards services sectors, and stronger legal protections for women. These changes have created opportunities for all and specifically for women. And yet, these opportunities have not been fully reaped. South Asia’s female labor force participation today remains among the lowest in the world: only 32 percent of working-age women in the region participate in the labor force, a rate that is in the bottom quartile among emerging market and developing economies (EMDEs). The restrictiveness of social norms and still low legal protection of women’s rights account for a large proportion of the gap in female labor force participation in South Asia vis-à-vis EMDEs. In fact, social norms barriers appear to trump markets signals as female participation is lower in cities notwithstanding the fact that gender gap in earnings are lower in cities vis-à-vis rural areas. The weak female participation rate represents a costly misallocation of resources, and raising this rate to that of men could boost per capita incomes by 13-51 percent. Besides continued support of further structural changes, a wide range of policies could help women take advantage of new opportunities to enter the workforce. These include legal reforms to improve gender equality and better implementation of existing laws, and faster job creation in the nonagricultural sector. Such measures are likely to be effective if accompanied by a shift towards social norms that are accepting of female employment.`
+        },
+
+        {
             title: `Collateral, Property Rights and Disparities in Credit Access`,
             speaker: `Nirupama Kulkarni (CAFRAL)`,
             datetime: `11:30 AM, 22 November, 2024`,
