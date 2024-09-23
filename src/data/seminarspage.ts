@@ -54,6 +54,14 @@ export const SeminarPageData:seminarPageSpec = {
         },
 
         {
+            title: `TBA`,
+            speaker: `Swagata Bhattacharjee (Jindal Global University)`,
+            datetime: `11:30 AM, 15 November, 2024`,
+            venue: ` Seminar Room 2 `,
+            description:``
+        },
+
+        {
             title: `Collateral, Property Rights and Disparities in Credit Access`,
             speaker: `Nirupama Kulkarni (CAFRAL)`,
             datetime: `11:30 AM, 22 November, 2024`,
