@@ -25,6 +25,15 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
 
+
+        {
+            title: `Population Aging, Public Finances, and Alternatives for Retirement Reform`,
+            description:`Dominik Maurer, Norwegian School of Economics <br>
+            Date: 11:30 AM, 04 October, 2024<br>
+            Venue: Seminar Room 2 <br>`
+        },
+
+
         {
             title: `Panics and Early Warnings`,
             description:`Deepal Basak, Indiana University<br>

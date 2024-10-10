@@ -37,14 +37,7 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminars:[
 
 
-        {
-            title: `Population Aging, Public Finances, and Alternatives for Retirement Reform`,
-            speaker: `Dominik Maurer (Norwegian School of Economics)`,
-            datetime: `11:30 AM, 04 October, 2024`,
-            venue: ` Seminar Room 2 `,
-            description:`We study retirement reforms that ensure sustainable public finances in the face of population aging. We build a structural life-cycle model with a pension scheme that includes a public pay-as-you-go pillar and a mandatory fully-funded pillar. The two pillars interact through a means-testing mechanism: the higher the fully-funded benefit, the lower the public pay-as-you-go benefit. This interaction allows us to assess a reform where increases in fully-funded contributions and benefits reduce public pension benefits through means testing. We compare this reform to three alternatives: increasing the retirement age, cutting public benefits, and raising taxes to finance growing public pension expenditures. Our model, estimated using Danish micro data, suggests that expanding fully-funded pensions to indirectly lower public pensions yields the highest long-run welfare and Hicksian efficiency along the transition. Among the remaining reforms, we find that directly lowering public benefits outperforms both raising taxes and increasing the retirement age.`
-        },
-
+        
         {
             title: `Empower to Prosper: Women Working for Growth`,
             speaker: `Jonah Matthew Rexer (World Bank)`,
