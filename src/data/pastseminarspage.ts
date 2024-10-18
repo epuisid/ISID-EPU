@@ -25,6 +25,12 @@ export const PastSeminarsData: pastSeminarsSpec = {
     ],
     pastSeminars: [
 
+        {
+            title: `Empower to Prosper: Women Working for Growth`,
+            description:`Jonah Matthew Rexer (World Bank) <br>
+            Date: 4:30 PM, 14 October, 2024<br>
+            Venue: Seminar Room 2 <br>`
+        },
 
         {
             title: `Population Aging, Public Finances, and Alternatives for Retirement Reform`,
