@@ -24,6 +24,13 @@ export const PastSeminarsData: pastSeminarsSpec = {
         }
     ],
     pastSeminars: [
+        
+        {
+            title: `Collateral, Property Rights and Disparities in Credit Access`,
+            description:`Nirupama Kulkarni (CAFRAL) <br>
+            Date: 11:30 AM, 22 November, 2024<br>
+            Venue: Seminar Room 2 <br>`
+        },
 
         {
             title: `Empower to Prosper: Women Working for Growth`,
