@@ -26,6 +26,12 @@ export const PastSeminarsData: pastSeminarsSpec = {
     pastSeminars: [
         
         {
+            title: `Soil Endowments and Intra-Household Distribution of Consumption in India: A Structural Approach`,
+            description:`Bipasha Maity, Ashoka University <br>
+            Date: 11:30 AM, 29 November, 2024<br>
+            Venue: Seminar Room 2 <br>`
+        },
+        {
             title: `Collateral, Property Rights and Disparities in Credit Access`,
             description:`Nirupama Kulkarni (CAFRAL) <br>
             Date: 11:30 AM, 22 November, 2024<br>

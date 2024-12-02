@@ -36,13 +36,7 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
 
-        {
-            title: `Soil Endowments and Intra-Household Distribution of Consumption in India: A Structural Approach`,
-            speaker: `Bipasha Maity, Ashoka University`,
-            datetime: `11:30 AM, 29 November, 2024`,
-            venue: ` Seminar Room 2 `,
-            description:`Using the collective household model framework and a recent structural estimation methodology, we estimate how intra-household resource shares of individual members in India vary by exogenously varying soil texture. In general we find that relative to men, women and children have substantially lower access to consumption resources within Indian households. However, gender gap in resource shares and consequently relative female poverty is found to be substantially lower in households in clayey relative to loamy soil regions. Despite widespread prevalence of child poverty across soil textures, children’s resource shares are also found to be modestly higher in clayey soil regions. As clayey soil has been associated with higher relative female employment and overall gender norms favourable to women, our findings suggest that soil texture also plays an important role in facilitating improvement of relative female bargaining power within households.`
-        },
+        
 
         {
             title: `TBA`,
