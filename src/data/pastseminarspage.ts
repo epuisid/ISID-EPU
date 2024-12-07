@@ -24,7 +24,12 @@ export const PastSeminarsData: pastSeminarsSpec = {
         }
     ],
     pastSeminars: [
-        
+        {
+            title: `Sovereign Credit Ratings: The Role of Past vs. Future Fiscal Performance`,
+            description:`Prachi Mishra, Ashoka University <br>
+            Date: 11:30 AM, 06 December, 2024<br>
+            Venue: Seminar Room 2 <br>`
+        },
         {
             title: `Soil Endowments and Intra-Household Distribution of Consumption in India: A Structural Approach`,
             description:`Bipasha Maity, Ashoka University <br>

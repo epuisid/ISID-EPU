@@ -36,20 +36,6 @@ export const SeminarPageData:seminarPageSpec = {
     upcomingSeminarsTitle:`Upcoming Seminars`,
     upcomingSeminars:[
 
-        
-
-        {
-            title: `Sovereign Credit Ratings: The Role of Past vs. Future Fiscal Performance`,
-            speaker: `Prachi Mishra, Ashoka University`,
-            datetime: `11:30 AM, 06 December, 2024`,
-            venue: ` Seminar Room 2 `,
-            description:`This paper examines drivers of sovereign credit ratings, focusing on the relative weights assigned to past debt ratios and future fiscal balance forecasts by major credit rating agencies. We develop and calibrate a simple theoretical model to assess what the relative weights on the two should be, and how they should vary with macroeconomic conditions, particularly the interest-growth differential. Using a comprehensive dataset encompassing ratings from three leading agencies across 134 countries (37 advanced economies and 97 emerging and developing economies) from 1990 to 2023, we estimate the relative importance of historical debt levels versus projected fiscal positions. Our findings indicate that rating agencies incorporate both accumulated debt burdens and future fiscal balances in their assessments. Quantitatively, we find that a 10 percentage point increase in the debt-to-GDP ratio over time in a given country requires a compensating improvement in the annual fiscal surplus of 6-9 percentage points of GDP to maintain a constant rating, other things equal. This required increase is significantly steeper than suggested by our theoretical model, which places a higher weight on future fiscal balances.
-            
-            We also document an increasing stringency in ratings over time, and heightened sensitivity to debt levels, particularly for advanced economies. Second, we also find evidence that agencies penalize fiscal underperformance: countries whose realized fiscal balances fall below their forecasted levels receive less favorable ratings, particularly when the underperformance is repeated.
-            
-            These findings lead to two potential alternative conclusions.  The first is that the rating agencies would more fully capture the risk of sovereign default by putting more weight on forecasts of future fiscal balances.  The second is that their underweight of future forecasts may reflect that these forecasts are noisy.  Our data set allows us to look at the reliability of these forecasts.  This is what we are currently doing.`
-        },
-
         {
             title: `Matching in co-operative education programs: An experimental study`,
             speaker: `Bradley Ruffle, McMaster University`,
