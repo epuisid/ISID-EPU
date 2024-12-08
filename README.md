@@ -2,7 +2,24 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
+## Development Environment Setup
+This section lists the steps to set up your computer to update the website and test changes locally.
+
+1. Install [git](https://git-scm.com/downloads). This is a version control tool. It helps save your website at checkpoints you can return to later if you break something drastically. Look up an essentials tutorial online for git. It also helps push your changes to GitHub.
+
+2. Install [nodejs](https://nodejs.org/en). This allows your local system to execute javascript. The website is "compiled" from the forest of files you see into a handful few using a framework written in javascript, So, we need nodejs to use the framework.
+
+You can ascertain the download succeeded by running `node -v` and `npm -v` in the terminal. Both commands should return relevant version numbers.
+
+3. Install [angular](https://angular.dev/tools/cli/setup-local). This is the framework mentioned above. You need to run the command under the section called Install the Angular CLI.
+
+4. Clone this repository. Launch the terminal in the folder where you want to keep this codebase and run `git clone https://github.com/epuisid/ISID-EPU`. This will create a local copy of the code.
+
+5. Go into the cloned repository's folder in the terminal and run `npm i`. This installs the dependencies needed for the framework (angular) and the website. 
+
 ## Development server
+
+This is how you test your changes locally.
 
 1. Open up a terminal in the folder containing this README file.
 2. Run `ng serve` or `ng s` for a dev server.
