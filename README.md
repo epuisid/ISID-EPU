@@ -26,16 +26,16 @@ This is how you test your changes locally.
 3. Open `http://localhost:4200/` in any browser to view the website.
 The application will automatically reload if you change any of the source files.
 
-## Deployment
+## Deployment (Publishing Changes to the Server)
 1. To generate files for deployment, open up a terminal in the folder containing this README file and run
-`bash deploy.sh https://www.isid.ac.in/~testdeploy`, replacing `https://www.isid.ac.in/~testdeploy` with
-the URL where the site is to be deployed.
+`bash deploy.sh https://www.isid.ac.in/~epu`, replacing `https://www.isid.ac.in/~epu` with
+the URL where the site is to be deployed, if it's different.
 2. Once this command succeeds, copy the files and folders from the folder called `deploy` to the folder called
 `public_html` in the server.
-3. A modification to the server to redirect any URLs not found to the 404.html page for our site specifically is necessary.
-4. Use `rm *.js *.css`
-5. Use `mput deploy/*`
-6. Use `put -r deploy/assets`
+3. A modification to the server to redirect any URLs not found to the 404.html page for our site specifically is necessary. This is done for ISID's server. If it's not working anymore, contact server admins, or look it up, or contact Hardik Rajpal.
+4. Use `rm *.js *.css` in the public_html folder to remove old scripts and styles. 
+5. Use `mput deploy/*` to move files to said folder.
+6. Use `put -r deploy/assets` to move leftover recursively. 
 
 # Updates
 ## To Existing pages
